@@ -1,0 +1,4 @@
+path1,path2,path3,path4,word1,word2,word3,word4,delay
+audio\set_12\card_en-IN-Standard-A.wav,audio\set_12\yard_en-IN-Standard-A.wav,audio\set_12\yards_en-IN-Standard-A.wav,audio\set_12\bard_en-IN-Standard-A.wav,card,yard,yards,bard,200
+audio\set_12\card_en-IN-Standard-C.wav,audio\set_12\yard_en-IN-Standard-C.wav,audio\set_12\yards_en-IN-Standard-C.wav,audio\set_12\bard_en-IN-Standard-C.wav,card,yard,yards,bard,600
+audio\set_12\card_en-IN-Standard-X.wav,audio\set_12\yard_en-IN-Standard-X.wav,audio\set_12\yards_en-IN-Standard-X.wav,audio\set_12\bard_en-IN-Standard-X.wav,card,yard,yards,bard,900

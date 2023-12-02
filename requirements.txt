@@ -1,0 +1,3 @@
+psychopy
+pandas
+numpy

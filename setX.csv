@@ -1,0 +1,14 @@
+set,path1,path2,path3,path4,word1,word2,word3,word4
+0,audio\set_0\wheat_en-IN-Standard-X.wav,audio\set_0\wheat_en-IN-Standard-X.wav,audio\set_0\sleet_en-IN-Standard-X.wav,audio\set_0\deed_en-IN-Standard-X.wav,wheat,heat,sleet,deed
+1,audio\set_1\light_en-IN-Standard-X.wav,audio\set_1\might_en-IN-Standard-X.wav,audio\set_1\bite_en-IN-Standard-X.wav,audio\set_1\right_en-IN-Standard-X.wav,light,might,bite,right
+2,audio\set_2\mood_en-IN-Standard-X.wav,audio\set_2\good_en-IN-Standard-X.wav,audio\set_2\wood_en-IN-Standard-X.wav,audio\set_2\brood_en-IN-Standard-X.wav,mood,good,wood,brood
+3,audio\set_3\train_en-IN-Standard-X.wav,audio\set_3\train_en-IN-Standard-X.wav,audio\set_3\lane_en-IN-Standard-X.wav,audio\set_3\main_en-IN-Standard-X.wav,rain,train,lane,main
+4,audio\set_4\race_en-IN-Standard-X.wav,audio\set_4\face_en-IN-Standard-X.wav,audio\set_4\lace_en-IN-Standard-X.wav,audio\set_4\pace_en-IN-Standard-X.wav,ace,face,lace,pace
+5,audio\set_5\bat_en-IN-Standard-X.wav,audio\set_5\rat_en-IN-Standard-X.wav,audio\set_5\sat_en-IN-Standard-X.wav,audio\set_5\vat_en-IN-Standard-X.wav,bat,rat,sat,vat
+6,audio\set_6\bee_en-IN-Standard-X.wav,audio\set_6\dee_en-IN-Standard-X.wav,audio\set_6\tree_en-IN-Standard-X.wav,audio\set_6\plea_en-IN-Standard-X.wav,bee,dee,tree,plea
+7,audio\set_7\goat_en-IN-Standard-X.wav,audio\set_7\throne_en-IN-Standard-X.wav,audio\set_7\moat_en-IN-Standard-X.wav,audio\set_7\float_en-IN-Standard-X.wav,goat,throne,moat,float
+8,audio\set_8\bow_en-IN-Standard-X.wav,audio\set_8\grow_en-IN-Standard-X.wav,audio\set_8\vow_en-IN-Standard-X.wav,audio\set_8\cow_en-IN-Standard-X.wav,bow,grow,vow,cow
+9,audio\set_9\box_en-IN-Standard-X.wav,audio\set_9\fox_en-IN-Standard-X.wav,audio\set_9\ox_en-IN-Standard-X.wav,audio\set_9\rocks_en-IN-Standard-X.wav,box,fox,ox,rocks
+10,audio\set_10\guy_en-IN-Standard-X.wav,audio\set_10\fly_en-IN-Standard-X.wav,audio\set_10\nigh_en-IN-Standard-X.wav,audio\set_10\guy_en-IN-Standard-X.wav,guy,fly,nigh,guy
+11,audio\set_11\fall_en-IN-Standard-X.wav,audio\set_11\wall_en-IN-Standard-X.wav,audio\set_11\bawl_en-IN-Standard-X.wav,audio\set_11\crawl_en-IN-Standard-X.wav,fall,wall,bawl,crawl
+12,audio\set_12\card_en-IN-Standard-X.wav,audio\set_12\yard_en-IN-Standard-X.wav,audio\set_12\yards_en-IN-Standard-X.wav,audio\set_12\bard_en-IN-Standard-X.wav,card,yard,yards,bard

@@ -1,0 +1,14 @@
+set,path1,path2,path3,path4,word1,word2,word3,word4
+0,audio\set_0\beat_en-IN-Standard-C.wav,audio\set_0\wheat_en-IN-Standard-C.wav,audio\set_0\need_en-IN-Standard-C.wav,audio\set_0\heat_en-IN-Standard-C.wav,beat,wheat,need,heat
+1,audio\set_1\light_en-IN-Standard-C.wav,audio\set_1\might_en-IN-Standard-C.wav,audio\set_1\right_en-IN-Standard-C.wav,audio\set_1\fight_en-IN-Standard-C.wav,light,might,right,fight
+2,audio\set_2\food_en-IN-Standard-C.wav,audio\set_2\mood_en-IN-Standard-C.wav,audio\set_2\wood_en-IN-Standard-C.wav,audio\set_2\brood_en-IN-Standard-C.wav,food,mood,wood,brood
+3,audio\set_3\spain_en-IN-Standard-C.wav,audio\set_3\stain_en-IN-Standard-C.wav,audio\set_3\lane_en-IN-Standard-C.wav,audio\set_3\pain_en-IN-Standard-C.wav,spain,stain,lane,pain
+4,audio\set_4\race_en-IN-Standard-C.wav,audio\set_4\face_en-IN-Standard-C.wav,audio\set_4\lace_en-IN-Standard-C.wav,audio\set_4\case_en-IN-Standard-C.wav,ace,face,lace,case
+5,audio\set_5\cat_en-IN-Standard-C.wav,audio\set_5\rat_en-IN-Standard-C.wav,audio\set_5\sat_en-IN-Standard-C.wav,audio\set_5\vat_en-IN-Standard-C.wav,cat,rat,sat,vat
+6,audio\set_6\bee_en-IN-Standard-C.wav,audio\set_6\dee_en-IN-Standard-C.wav,audio\set_6\tree_en-IN-Standard-C.wav,audio\set_6\plea_en-IN-Standard-C.wav,bee,dee,tree,plea
+7,audio\set_7\boat_en-IN-Standard-C.wav,audio\set_7\goat_en-IN-Standard-C.wav,audio\set_7\moat_en-IN-Standard-C.wav,audio\set_7\float_en-IN-Standard-C.wav,boat,goat,moat,float
+8,audio\set_8\crow_en-IN-Standard-C.wav,audio\set_8\owl_en-IN-Standard-C.wav,audio\set_8\vow_en-IN-Standard-C.wav,audio\set_8\cow_en-IN-Standard-C.wav,crow,owl,vow,cow
+9,audio\set_9\box_en-IN-Standard-C.wav,audio\set_9\fox_en-IN-Standard-C.wav,audio\set_9\ox_en-IN-Standard-C.wav,audio\set_9\rocks_en-IN-Standard-C.wav,box,fox,ox,rocks
+10,audio\set_10\guy_en-IN-Standard-C.wav,audio\set_10\high_en-IN-Standard-C.wav,audio\set_10\fly_en-IN-Standard-C.wav,audio\set_10\guy_en-IN-Standard-C.wav,guy,high,fly,guy
+11,audio\set_11\call_en-IN-Standard-C.wav,audio\set_11\fall_en-IN-Standard-C.wav,audio\set_11\wall_en-IN-Standard-C.wav,audio\set_11\pall_en-IN-Standard-C.wav,call,fall,wall,pall
+12,audio\set_12\card_en-IN-Standard-C.wav,audio\set_12\yard_en-IN-Standard-C.wav,audio\set_12\yards_en-IN-Standard-C.wav,audio\set_12\bard_en-IN-Standard-C.wav,card,yard,yards,bard

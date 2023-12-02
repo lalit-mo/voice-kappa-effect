@@ -1,0 +1,1497 @@
+14.4254 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1366, 768]. Using actual size
+16.3913 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A428EF6D70>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A428EF6C50>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A428EF7790>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002A42A46F520>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1366,  768]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.3914 	EXP 	window1: mouseVisible = True
+16.3914 	EXP 	window1: backgroundImage = ''
+16.3914 	EXP 	window1: backgroundFit = 'none'
+16.3938 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+16.3939 	EXP 	window1: recordFrameIntervals = False
+16.5575 	EXP 	window1: recordFrameIntervals = True
+16.7410 	EXP 	Screen (0) actual frame rate measured at 60.06Hz
+16.7410 	EXP 	window1: recordFrameIntervals = False
+16.7412 	EXP 	window1: mouseVisible = False
+22.8137 	EXP 	pitch_toj: status = STARTED
+22.8143 	EXP 	window1: mouseVisible = True
+22.9178 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.9183 	EXP 	window1: mouseVisible = True
+22.9185 	EXP 	window1: mouseVisible = True
+22.9197 	EXP 	window1: mouseVisible = True
+22.9207 	EXP 	window1: mouseVisible = True
+23.0107 	EXP 	window1: mouseVisible = True
+23.0109 	EXP 	window1: mouseVisible = True
+23.0117 	EXP 	window1: mouseVisible = True
+23.0126 	EXP 	window1: mouseVisible = True
+23.0335 	EXP 	window1: mouseVisible = True
+23.0531 	EXP 	Created practiceText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='practiceText', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.0533 	EXP 	window1: mouseVisible = True
+23.0605 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='Starting new trial in', units='height', win=Window(...), wrapWidth=1)
+23.0607 	EXP 	window1: mouseVisible = True
+23.0622 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.0624 	EXP 	window1: mouseVisible = True
+23.0639 	EXP 	Created firstW = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1.,  1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='firstW', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.0641 	EXP 	window1: mouseVisible = True
+23.0663 	EXP 	Created polygon = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([0., 0., 0.]), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0., 0., 0.]), lineWidth=1.0, name='polygon', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.0665 	EXP 	window1: mouseVisible = True
+23.0681 	EXP 	Created secondW = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='secondW', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.0682 	EXP 	window1: mouseVisible = True
+23.0714 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0., 0., 0.]), lineWidth=1.0, name='polygon_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.0716 	EXP 	window1: mouseVisible = True
+23.0741 	EXP 	Created thirdW = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thirdW', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.0743 	EXP 	window1: mouseVisible = True
+23.0767 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0., 0., 0.]), lineWidth=1.0, name='polygon_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.0769 	EXP 	window1: mouseVisible = True
+23.0784 	EXP 	Created fourthW = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 0.09019608, -1.        , -1.        ]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fourthW', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.3460 	EXP 	Sound sound_1 set volume 1.000
+23.3463 	EXP 	window1: mouseVisible = True
+23.3648 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.3650 	EXP 	window1: mouseVisible = True
+23.3723 	EXP 	Created text_8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_8', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Response has been recorded.', units='height', win=Window(...), wrapWidth=1)
+23.3725 	EXP 	window1: mouseVisible = True
+23.3834 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.3836 	EXP 	window1: mouseVisible = True
+23.3885 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='Starting new trial in', units='height', win=Window(...), wrapWidth=1)
+23.3888 	EXP 	window1: mouseVisible = True
+23.3903 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.3905 	EXP 	window1: mouseVisible = True
+23.3920 	EXP 	Created firstW = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1.,  1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='firstW', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.3922 	EXP 	window1: mouseVisible = True
+23.3946 	EXP 	Created polygon = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([0., 0., 0.]), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0., 0., 0.]), lineWidth=1.0, name='polygon', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.3948 	EXP 	window1: mouseVisible = True
+23.3964 	EXP 	Created secondW = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='secondW', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.3966 	EXP 	window1: mouseVisible = True
+23.3987 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0., 0., 0.]), lineWidth=1.0, name='polygon_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.3989 	EXP 	window1: mouseVisible = True
+23.4004 	EXP 	Created thirdW = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thirdW', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.4006 	EXP 	window1: mouseVisible = True
+23.4029 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0., 0., 0.]), lineWidth=1.0, name='polygon_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+23.4032 	EXP 	window1: mouseVisible = True
+23.4049 	EXP 	Created fourthW = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 0.09019608, -1.        , -1.        ]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fourthW', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.4087 	EXP 	Sound sound_1 set volume 1.000
+23.4089 	EXP 	window1: mouseVisible = True
+23.4159 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.4161 	EXP 	window1: mouseVisible = True
+23.4212 	EXP 	Created text_8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_8', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Response has been recorded.', units='height', win=Window(...), wrapWidth=1)
+23.4214 	EXP 	window1: mouseVisible = True
+23.4314 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0031 	EXP 	textbox: autoLog = True
+0.0231 	EXP 	text: autoDraw = True
+4.0071 	EXP 	textbox: autoDraw = True
+4.0237 	EXP 	text: autoDraw = False
+11.5430 	DATA 	Keypress: space
+11.5557 	EXP 	text: autoDraw = False
+11.5557 	EXP 	textbox: autoDraw = False
+11.5557 	EXP 	practiceText: autoDraw = True
+13.7970 	EXP 	Imported sample.csv as conditions, 3 conditions, 9 params
+13.7975 	EXP 	Created sequence: random, trialTypes=3, nReps=1, seed=None
+13.7978 	EXP 	New trial (rep=0, index=0): OrderedDict([('path1', 'audio\\set_12\\card_en-IN-Standard-A.wav'), ('path2', 'audio\\set_12\\yard_en-IN-Standard-A.wav'), ('path3', 'audio\\set_12\\yards_en-IN-Standard-A.wav'), ('path4', 'audio\\set_12\\bard_en-IN-Standard-A.wav'), ('word1', 'card'), ('word2', 'yard'), ('word3', 'yards'), ('word4', 'bard'), ('delay', 200)])
+13.8071 	DATA 	Keypress: space
+13.8094 	EXP 	practiceText: autoDraw = False
+13.8094 	EXP 	text_3: autoDraw = True
+13.8094 	EXP 	text_4: autoDraw = True
+16.8212 	EXP 	text_3: autoDraw = False
+16.8212 	EXP 	text_4: autoDraw = False
+16.8212 	EXP 	firstW: height = 0.05000000000000001
+16.8212 	EXP 	firstW: height = 0.05000000000000001
+16.8212 	EXP 	firstW: height = 0.05000000000000001
+16.8212 	EXP 	firstW: text = 'card'
+16.8212 	EXP 	firstW: autoDraw = True
+18.8041 	EXP 	polygon: autoDraw = True
+18.8222 	EXP 	firstW: autoDraw = False
+19.3041 	EXP 	polygon: autoDraw = False
+19.3041 	EXP 	firstW: autoDraw = False
+19.3041 	EXP 	polygon: autoDraw = False
+19.3041 	EXP 	secondW: height = 0.05000000000000001
+19.3041 	EXP 	secondW: height = 0.05000000000000001
+19.3041 	EXP 	secondW: height = 0.05000000000000001
+19.3041 	EXP 	secondW: text = 'yard'
+19.3041 	EXP 	secondW: autoDraw = True
+21.3043 	EXP 	secondW: autoDraw = False
+21.3043 	EXP 	polygon_2: autoDraw = True
+21.8036 	EXP 	polygon_2: autoDraw = False
+21.8036 	EXP 	secondW: autoDraw = False
+21.8036 	EXP 	polygon_2: autoDraw = False
+21.8036 	EXP 	thirdW: height = 0.05000000000000001
+21.8036 	EXP 	thirdW: height = 0.05000000000000001
+21.8036 	EXP 	thirdW: height = 0.05000000000000001
+21.8036 	EXP 	thirdW: text = 'yards'
+21.8036 	EXP 	thirdW: autoDraw = True
+23.8041 	EXP 	thirdW: autoDraw = False
+23.8041 	EXP 	polygon_3: autoDraw = True
+24.3031 	EXP 	polygon_3: autoDraw = False
+24.3031 	EXP 	thirdW: autoDraw = False
+24.3031 	EXP 	polygon_3: autoDraw = False
+24.3031 	EXP 	fourthW: height = 0.05000000000000001
+24.3031 	EXP 	fourthW: height = 0.05000000000000001
+24.3031 	EXP 	fourthW: height = 0.05000000000000001
+24.3031 	EXP 	fourthW: text = 'bard'
+24.3031 	EXP 	fourthW: autoDraw = True
+24.5038 	EXP 	Sound sound_1 started
+25.2093 	EXP 	Sound sound_1 reached end of file
+25.2094 	EXP 	Sound sound_1 reached end of file
+25.9391 	DATA 	Keypress: y
+26.3028 	EXP 	fourthW: autoDraw = False
+26.3028 	EXP 	fourthW: autoDraw = False
+26.3028 	EXP 	text_6: autoDraw = True
+34.6229 	DATA 	Keypress: n
+34.6345 	EXP 	text_6: autoDraw = False
+34.6345 	EXP 	text_8: autoDraw = True
+36.1185 	EXP 	New trial (rep=0, index=1): OrderedDict([('path1', 'audio\\set_12\\card_en-IN-Standard-X.wav'), ('path2', 'audio\\set_12\\yard_en-IN-Standard-X.wav'), ('path3', 'audio\\set_12\\yards_en-IN-Standard-X.wav'), ('path4', 'audio\\set_12\\bard_en-IN-Standard-X.wav'), ('word1', 'card'), ('word2', 'yard'), ('word3', 'yards'), ('word4', 'bard'), ('delay', 900)])
+36.1342 	EXP 	text_8: autoDraw = False
+36.1342 	EXP 	text_8: autoDraw = False
+36.1342 	EXP 	text_3: autoDraw = True
+36.1342 	EXP 	text_4: autoDraw = True
+39.1335 	EXP 	text_3: autoDraw = False
+39.1335 	EXP 	text_4: autoDraw = False
+39.1335 	EXP 	text_3: autoDraw = False
+39.1335 	EXP 	text_4: autoDraw = False
+39.1335 	EXP 	firstW: text = 'card'
+39.1335 	EXP 	firstW: autoDraw = True
+41.1337 	EXP 	firstW: autoDraw = False
+41.1337 	EXP 	polygon: autoDraw = True
+41.6330 	EXP 	polygon: autoDraw = False
+41.6330 	EXP 	firstW: autoDraw = False
+41.6330 	EXP 	polygon: autoDraw = False
+41.6330 	EXP 	secondW: text = 'yard'
+41.6330 	EXP 	secondW: autoDraw = True
+43.6327 	EXP 	secondW: autoDraw = False
+43.6327 	EXP 	polygon_2: autoDraw = True
+44.1330 	EXP 	polygon_2: autoDraw = False
+44.1330 	EXP 	secondW: autoDraw = False
+44.1330 	EXP 	polygon_2: autoDraw = False
+44.1330 	EXP 	thirdW: text = 'yards'
+44.1330 	EXP 	thirdW: autoDraw = True
+46.1331 	EXP 	thirdW: autoDraw = False
+46.1331 	EXP 	polygon_3: autoDraw = True
+46.6489 	EXP 	thirdW: autoDraw = False
+46.6489 	EXP 	polygon_3: autoDraw = False
+46.6489 	EXP 	fourthW: text = 'bard'
+46.6489 	EXP 	fourthW: autoDraw = True
+47.5323 	EXP 	Sound sound_1 started
+48.2006 	EXP 	Sound sound_1 reached end of file
+48.2007 	EXP 	Sound sound_1 reached end of file
+48.6483 	EXP 	fourthW: autoDraw = False
+48.6483 	EXP 	fourthW: autoDraw = False
+48.6483 	EXP 	text_6: autoDraw = True
+48.7185 	DATA 	Keypress: n
+48.7317 	EXP 	text_6: autoDraw = False
+48.7317 	EXP 	text_8: autoDraw = True
+50.2158 	EXP 	New trial (rep=0, index=2): OrderedDict([('path1', 'audio\\set_12\\card_en-IN-Standard-C.wav'), ('path2', 'audio\\set_12\\yard_en-IN-Standard-C.wav'), ('path3', 'audio\\set_12\\yards_en-IN-Standard-C.wav'), ('path4', 'audio\\set_12\\bard_en-IN-Standard-C.wav'), ('word1', 'card'), ('word2', 'yard'), ('word3', 'yards'), ('word4', 'bard'), ('delay', 600)])
+50.2315 	EXP 	text_8: autoDraw = False
+50.2315 	EXP 	text_8: autoDraw = False
+50.2315 	EXP 	text_3: autoDraw = True
+50.2315 	EXP 	text_4: autoDraw = True
+53.2310 	EXP 	text_3: autoDraw = False
+53.2310 	EXP 	text_4: autoDraw = False
+53.2310 	EXP 	text_3: autoDraw = False
+53.2310 	EXP 	text_4: autoDraw = False
+53.2310 	EXP 	firstW: text = 'card'
+53.2310 	EXP 	firstW: autoDraw = True
+55.2303 	EXP 	firstW: autoDraw = False
+55.2303 	EXP 	polygon: autoDraw = True
+55.7304 	EXP 	polygon: autoDraw = False
+55.7304 	EXP 	firstW: autoDraw = False
+55.7304 	EXP 	polygon: autoDraw = False
+55.7304 	EXP 	secondW: text = 'yard'
+55.7304 	EXP 	secondW: autoDraw = True
+57.7299 	EXP 	secondW: autoDraw = False
+57.7299 	EXP 	polygon_2: autoDraw = True
+58.2300 	EXP 	polygon_2: autoDraw = False
+58.2300 	EXP 	secondW: autoDraw = False
+58.2300 	EXP 	polygon_2: autoDraw = False
+58.2300 	EXP 	thirdW: text = 'yards'
+58.2300 	EXP 	thirdW: autoDraw = True
+60.2296 	EXP 	thirdW: autoDraw = False
+60.2296 	EXP 	polygon_3: autoDraw = True
+60.7294 	EXP 	polygon_3: autoDraw = False
+60.7294 	EXP 	thirdW: autoDraw = False
+60.7294 	EXP 	polygon_3: autoDraw = False
+60.7294 	EXP 	fourthW: text = 'bard'
+60.7294 	EXP 	fourthW: autoDraw = True
+61.3304 	EXP 	Sound sound_1 started
+62.0538 	EXP 	Sound sound_1 reached end of file
+62.0539 	EXP 	Sound sound_1 reached end of file
+62.3314 	DATA 	Keypress: n
+62.7290 	EXP 	fourthW: autoDraw = False
+62.7290 	EXP 	fourthW: autoDraw = False
+62.7290 	EXP 	text_6: autoDraw = True
+63.4165 	DATA 	Keypress: n
+63.4291 	EXP 	text_6: autoDraw = False
+63.4291 	EXP 	text_8: autoDraw = True
+64.9783 	EXP 	text_8: autoDraw = False
+64.9783 	EXP 	text_8: autoDraw = False
+64.9783 	EXP 	text_7: autoDraw = True
+68.8198 	EXP 	Imported stimuli.csv as conditions, 24 conditions, 10 params
+68.8203 	EXP 	Created sequence: random, trialTypes=24, nReps=1, seed=None
+68.8206 	EXP 	New trial (rep=0, index=0): OrderedDict([('index', 0), ('path1', 'audio\\set_9\\box_en-IN-Standard-A.wav'), ('path2', 'audio\\set_9\\fox_en-IN-Standard-A.wav'), ('path3', 'audio\\set_9\\ox_en-IN-Standard-A.wav'), ('path4', 'audio\\set_9\\rocks_en-IN-Standard-A.wav'), ('word1', 'box'), ('word2', 'fox'), ('word3', 'ox'), ('word4', 'rocks'), ('delay', 0)])
+68.8260 	DATA 	Keypress: space
+68.8283 	EXP 	text_7: autoDraw = False
+68.8283 	EXP 	text_3: autoDraw = True
+68.8283 	EXP 	text_4: autoDraw = True
+71.8272 	EXP 	text_3: autoDraw = False
+71.8272 	EXP 	text_4: autoDraw = False
+71.8272 	EXP 	firstW: height = 0.05000000000000001
+71.8272 	EXP 	firstW: height = 0.05000000000000001
+71.8272 	EXP 	firstW: height = 0.05000000000000001
+71.8272 	EXP 	firstW: text = 'box'
+71.8272 	EXP 	firstW: autoDraw = True
+73.8103 	EXP 	polygon: autoDraw = True
+73.8276 	EXP 	firstW: autoDraw = False
+74.3102 	EXP 	polygon: autoDraw = False
+74.3102 	EXP 	firstW: autoDraw = False
+74.3102 	EXP 	polygon: autoDraw = False
+74.3102 	EXP 	secondW: height = 0.05000000000000001
+74.3102 	EXP 	secondW: height = 0.05000000000000001
+74.3102 	EXP 	secondW: height = 0.05000000000000001
+74.3102 	EXP 	secondW: text = 'fox'
+74.3102 	EXP 	secondW: autoDraw = True
+76.3099 	EXP 	secondW: autoDraw = False
+76.3099 	EXP 	polygon_2: autoDraw = True
+76.8098 	EXP 	polygon_2: autoDraw = False
+76.8098 	EXP 	secondW: autoDraw = False
+76.8098 	EXP 	polygon_2: autoDraw = False
+76.8098 	EXP 	thirdW: height = 0.05000000000000001
+76.8098 	EXP 	thirdW: height = 0.05000000000000001
+76.8098 	EXP 	thirdW: height = 0.05000000000000001
+76.8098 	EXP 	thirdW: text = 'ox'
+76.8098 	EXP 	thirdW: autoDraw = True
+78.8093 	EXP 	thirdW: autoDraw = False
+78.8093 	EXP 	polygon_3: autoDraw = True
+79.2982 	EXP 	Sound sound_1 started
+79.3093 	EXP 	polygon_3: autoDraw = False
+79.3093 	EXP 	thirdW: autoDraw = False
+79.3093 	EXP 	polygon_3: autoDraw = False
+79.3093 	EXP 	fourthW: height = 0.05000000000000001
+79.3093 	EXP 	fourthW: height = 0.05000000000000001
+79.3093 	EXP 	fourthW: height = 0.05000000000000001
+79.3093 	EXP 	fourthW: text = 'rocks'
+79.3093 	EXP 	fourthW: autoDraw = True
+80.0411 	EXP 	Sound sound_1 reached end of file
+80.0412 	EXP 	Sound sound_1 reached end of file
+81.3088 	EXP 	fourthW: autoDraw = False
+81.3088 	EXP 	fourthW: autoDraw = False
+81.3088 	EXP 	text_6: autoDraw = True
+81.4458 	DATA 	Keypress: y
+81.4587 	EXP 	text_6: autoDraw = False
+81.4587 	EXP 	text_8: autoDraw = True
+82.9427 	EXP 	New trial (rep=0, index=1): OrderedDict([('index', 4), ('path1', 'audio\\set_3\\train_en-IN-Standard-A.wav'), ('path2', 'audio\\set_2\\mood_en-IN-Standard-A.wav'), ('path3', 'audio\\set_10\\guy_en-IN-Standard-A.wav'), ('path4', 'audio\\set_4\\lace_en-IN-Standard-A.wav'), ('word1', 'rain'), ('word2', 'mood'), ('word3', 'guy'), ('word4', 'lace'), ('delay', 550)])
+82.9584 	EXP 	text_8: autoDraw = False
+82.9584 	EXP 	text_8: autoDraw = False
+82.9584 	EXP 	text_3: autoDraw = True
+82.9584 	EXP 	text_4: autoDraw = True
+85.9579 	EXP 	text_3: autoDraw = False
+85.9579 	EXP 	text_4: autoDraw = False
+85.9579 	EXP 	text_3: autoDraw = False
+85.9579 	EXP 	text_4: autoDraw = False
+85.9579 	EXP 	firstW: height = 0.05000000000000001
+85.9579 	EXP 	firstW: height = 0.05000000000000001
+85.9579 	EXP 	firstW: height = 0.05000000000000001
+85.9579 	EXP 	firstW: text = 'rain'
+85.9579 	EXP 	firstW: autoDraw = True
+87.9582 	EXP 	firstW: autoDraw = False
+87.9582 	EXP 	polygon: autoDraw = True
+88.4574 	EXP 	polygon: autoDraw = False
+88.4574 	EXP 	firstW: autoDraw = False
+88.4574 	EXP 	polygon: autoDraw = False
+88.4574 	EXP 	secondW: height = 0.05000000000000001
+88.4574 	EXP 	secondW: height = 0.05000000000000001
+88.4574 	EXP 	secondW: height = 0.05000000000000001
+88.4574 	EXP 	secondW: text = 'mood'
+88.4574 	EXP 	secondW: autoDraw = True
+90.4570 	EXP 	secondW: autoDraw = False
+90.4570 	EXP 	polygon_2: autoDraw = True
+90.9569 	EXP 	polygon_2: autoDraw = False
+90.9569 	EXP 	secondW: autoDraw = False
+90.9569 	EXP 	polygon_2: autoDraw = False
+90.9569 	EXP 	thirdW: height = 0.05000000000000001
+90.9569 	EXP 	thirdW: height = 0.05000000000000001
+90.9569 	EXP 	thirdW: height = 0.05000000000000001
+90.9569 	EXP 	thirdW: text = 'guy'
+90.9569 	EXP 	thirdW: autoDraw = True
+92.9565 	EXP 	thirdW: autoDraw = False
+92.9565 	EXP 	polygon_3: autoDraw = True
+93.4685 	EXP 	polygon_3: autoDraw = False
+93.4685 	EXP 	thirdW: autoDraw = False
+93.4685 	EXP 	polygon_3: autoDraw = False
+93.4685 	EXP 	fourthW: height = 0.05000000000000001
+93.4685 	EXP 	fourthW: height = 0.05000000000000001
+93.4685 	EXP 	fourthW: height = 0.05000000000000001
+93.4685 	EXP 	fourthW: text = 'lace'
+93.4685 	EXP 	fourthW: autoDraw = True
+94.0067 	EXP 	Sound sound_1 started
+94.7097 	EXP 	Sound sound_1 reached end of file
+94.7098 	EXP 	Sound sound_1 reached end of file
+95.4727 	EXP 	fourthW: autoDraw = False
+95.4727 	EXP 	fourthW: autoDraw = False
+95.4727 	EXP 	text_6: autoDraw = True
+96.0421 	DATA 	Keypress: n
+96.0725 	EXP 	text_6: autoDraw = False
+96.0725 	EXP 	text_8: autoDraw = True
+97.5566 	EXP 	New trial (rep=0, index=2): OrderedDict([('index', 3), ('path1', 'audio\\set_0\\beat_en-IN-Standard-C.wav'), ('path2', 'audio\\set_0\\wheat_en-IN-Standard-C.wav'), ('path3', 'audio\\set_0\need_en-IN-Standard-C.wav'), ('path4', 'audio\\set_0\\heat_en-IN-Standard-C.wav'), ('word1', 'beat'), ('word2', 'wheat'), ('word3', 'need'), ('word4', 'heat'), ('delay', 500)])
+97.5723 	EXP 	text_8: autoDraw = False
+97.5723 	EXP 	text_8: autoDraw = False
+97.5723 	EXP 	text_3: autoDraw = True
+97.5723 	EXP 	text_4: autoDraw = True
+100.5716 	EXP 	text_3: autoDraw = False
+100.5716 	EXP 	text_4: autoDraw = False
+100.5716 	EXP 	text_3: autoDraw = False
+100.5716 	EXP 	text_4: autoDraw = False
+100.5716 	EXP 	firstW: height = 0.05000000000000001
+100.5716 	EXP 	firstW: height = 0.05000000000000001
+100.5716 	EXP 	firstW: height = 0.05000000000000001
+100.5716 	EXP 	firstW: text = 'beat'
+100.5716 	EXP 	firstW: autoDraw = True
+102.5713 	EXP 	firstW: autoDraw = False
+102.5713 	EXP 	polygon: autoDraw = True
+103.1406 	EXP 	polygon: autoDraw = False
+103.1406 	EXP 	firstW: autoDraw = False
+103.1406 	EXP 	polygon: autoDraw = False
+103.1406 	EXP 	secondW: height = 0.05000000000000001
+103.1406 	EXP 	secondW: height = 0.05000000000000001
+103.1406 	EXP 	secondW: height = 0.05000000000000001
+103.1406 	EXP 	secondW: text = 'wheat'
+103.1406 	EXP 	secondW: autoDraw = True
+105.0709 	EXP 	polygon_2: autoDraw = True
+105.1541 	EXP 	secondW: autoDraw = False
+105.5709 	EXP 	polygon_2: autoDraw = False
+105.5709 	EXP 	secondW: autoDraw = False
+105.5709 	EXP 	polygon_2: autoDraw = False
+105.5709 	EXP 	thirdW: height = 0.05000000000000001
+105.5709 	EXP 	thirdW: height = 0.05000000000000001
+105.5709 	EXP 	thirdW: height = 0.05000000000000001
+105.5709 	EXP 	thirdW: text = 'need'
+105.5709 	EXP 	thirdW: autoDraw = True
+107.5712 	EXP 	thirdW: autoDraw = False
+107.5712 	EXP 	polygon_3: autoDraw = True
+108.0894 	EXP 	thirdW: autoDraw = False
+108.0894 	EXP 	polygon_3: autoDraw = False
+108.0894 	EXP 	fourthW: height = 0.05000000000000001
+108.0894 	EXP 	fourthW: height = 0.05000000000000001
+108.0894 	EXP 	fourthW: height = 0.05000000000000001
+108.0894 	EXP 	fourthW: text = 'heat'
+108.0894 	EXP 	fourthW: autoDraw = True
+108.5706 	EXP 	Sound sound_1 started
+108.9101 	EXP 	Sound sound_1 reached end of file
+108.9101 	EXP 	Sound sound_1 reached end of file
+110.1034 	EXP 	fourthW: autoDraw = False
+110.1034 	EXP 	fourthW: autoDraw = False
+110.1034 	EXP 	text_6: autoDraw = True
+110.5737 	DATA 	Keypress: n
+110.5865 	EXP 	text_6: autoDraw = False
+110.5865 	EXP 	text_8: autoDraw = True
+112.0705 	EXP 	New trial (rep=0, index=3): OrderedDict([('index', 3), ('path1', 'audio\\set_1\\light_en-IN-Standard-X.wav'), ('path2', 'audio\\set_1\\might_en-IN-Standard-X.wav'), ('path3', 'audio\\set_1\\bite_en-IN-Standard-X.wav'), ('path4', 'audio\\set_1\\right_en-IN-Standard-X.wav'), ('word1', 'light'), ('word2', 'might'), ('word3', 'bite'), ('word4', 'right'), ('delay', 500)])
+112.0861 	EXP 	text_8: autoDraw = False
+112.0861 	EXP 	text_8: autoDraw = False
+112.0861 	EXP 	text_3: autoDraw = True
+112.0861 	EXP 	text_4: autoDraw = True
+115.0855 	EXP 	text_3: autoDraw = False
+115.0855 	EXP 	text_4: autoDraw = False
+115.0855 	EXP 	text_3: autoDraw = False
+115.0855 	EXP 	text_4: autoDraw = False
+115.0855 	EXP 	firstW: height = 0.05000000000000001
+115.0855 	EXP 	firstW: height = 0.05000000000000001
+115.0855 	EXP 	firstW: height = 0.05000000000000001
+115.0855 	EXP 	firstW: text = 'light'
+115.0855 	EXP 	firstW: autoDraw = True
+117.0852 	EXP 	firstW: autoDraw = False
+117.0852 	EXP 	polygon: autoDraw = True
+117.5854 	EXP 	polygon: autoDraw = False
+117.5854 	EXP 	firstW: autoDraw = False
+117.5854 	EXP 	polygon: autoDraw = False
+117.5854 	EXP 	secondW: height = 0.05000000000000001
+117.5854 	EXP 	secondW: height = 0.05000000000000001
+117.5854 	EXP 	secondW: height = 0.05000000000000001
+117.5854 	EXP 	secondW: text = 'might'
+117.5854 	EXP 	secondW: autoDraw = True
+119.5848 	EXP 	secondW: autoDraw = False
+119.5848 	EXP 	polygon_2: autoDraw = True
+120.0848 	EXP 	polygon_2: autoDraw = False
+120.0848 	EXP 	secondW: autoDraw = False
+120.0848 	EXP 	polygon_2: autoDraw = False
+120.0848 	EXP 	thirdW: height = 0.05000000000000001
+120.0848 	EXP 	thirdW: height = 0.05000000000000001
+120.0848 	EXP 	thirdW: height = 0.05000000000000001
+120.0848 	EXP 	thirdW: text = 'bite'
+120.0848 	EXP 	thirdW: autoDraw = True
+122.0841 	EXP 	thirdW: autoDraw = False
+122.0841 	EXP 	polygon_3: autoDraw = True
+122.6007 	EXP 	polygon_3: autoDraw = False
+122.6007 	EXP 	thirdW: autoDraw = False
+122.6007 	EXP 	polygon_3: autoDraw = False
+122.6007 	EXP 	fourthW: height = 0.05000000000000001
+122.6007 	EXP 	fourthW: height = 0.05000000000000001
+122.6007 	EXP 	fourthW: height = 0.05000000000000001
+122.6007 	EXP 	fourthW: text = 'right'
+122.6007 	EXP 	fourthW: autoDraw = True
+123.0842 	EXP 	Sound sound_1 started
+123.7417 	EXP 	Sound sound_1 reached end of file
+123.7418 	EXP 	Sound sound_1 reached end of file
+124.6007 	EXP 	fourthW: autoDraw = False
+124.6007 	EXP 	fourthW: autoDraw = False
+124.6007 	EXP 	text_6: autoDraw = True
+125.1212 	DATA 	Keypress: n
+125.1338 	EXP 	text_6: autoDraw = False
+125.1338 	EXP 	text_8: autoDraw = True
+126.6176 	EXP 	New trial (rep=0, index=4): OrderedDict([('index', 1), ('path1', 'audio\\set_11\\fall_en-IN-Standard-A.wav'), ('path2', 'audio\\set_11\\wall_en-IN-Standard-A.wav'), ('path3', 'audio\\set_11\\bawl_en-IN-Standard-A.wav'), ('path4', 'audio\\set_11\\crawl_en-IN-Standard-A.wav'), ('word1', 'fall'), ('word2', 'wall'), ('word3', 'bawl'), ('word4', 'crawl'), ('delay', 200)])
+126.6333 	EXP 	text_8: autoDraw = False
+126.6333 	EXP 	text_8: autoDraw = False
+126.6333 	EXP 	text_3: autoDraw = True
+126.6333 	EXP 	text_4: autoDraw = True
+129.6328 	EXP 	text_3: autoDraw = False
+129.6328 	EXP 	text_4: autoDraw = False
+129.6328 	EXP 	text_3: autoDraw = False
+129.6328 	EXP 	text_4: autoDraw = False
+129.6328 	EXP 	firstW: height = 0.05000000000000001
+129.6328 	EXP 	firstW: height = 0.05000000000000001
+129.6328 	EXP 	firstW: height = 0.05000000000000001
+129.6328 	EXP 	firstW: text = 'fall'
+129.6328 	EXP 	firstW: autoDraw = True
+131.6332 	EXP 	firstW: autoDraw = False
+131.6332 	EXP 	polygon: autoDraw = True
+132.1322 	EXP 	polygon: autoDraw = False
+132.1322 	EXP 	firstW: autoDraw = False
+132.1322 	EXP 	polygon: autoDraw = False
+132.1322 	EXP 	secondW: height = 0.05000000000000001
+132.1322 	EXP 	secondW: height = 0.05000000000000001
+132.1322 	EXP 	secondW: height = 0.05000000000000001
+132.1322 	EXP 	secondW: text = 'wall'
+132.1322 	EXP 	secondW: autoDraw = True
+134.1318 	EXP 	secondW: autoDraw = False
+134.1318 	EXP 	polygon_2: autoDraw = True
+134.6317 	EXP 	polygon_2: autoDraw = False
+134.6317 	EXP 	secondW: autoDraw = False
+134.6317 	EXP 	polygon_2: autoDraw = False
+134.6317 	EXP 	thirdW: height = 0.05000000000000001
+134.6317 	EXP 	thirdW: height = 0.05000000000000001
+134.6317 	EXP 	thirdW: height = 0.05000000000000001
+134.6317 	EXP 	thirdW: text = 'bawl'
+134.6317 	EXP 	thirdW: autoDraw = True
+136.6315 	EXP 	thirdW: autoDraw = False
+136.6315 	EXP 	polygon_3: autoDraw = True
+137.1533 	EXP 	polygon_3: autoDraw = False
+137.1533 	EXP 	thirdW: autoDraw = False
+137.1533 	EXP 	polygon_3: autoDraw = False
+137.1533 	EXP 	fourthW: height = 0.05000000000000001
+137.1533 	EXP 	fourthW: height = 0.05000000000000001
+137.1533 	EXP 	fourthW: height = 0.05000000000000001
+137.1533 	EXP 	fourthW: text = 'crawl'
+137.1533 	EXP 	fourthW: autoDraw = True
+137.3316 	EXP 	Sound sound_1 started
+138.0146 	EXP 	Sound sound_1 reached end of file
+138.0146 	EXP 	Sound sound_1 reached end of file
+139.1642 	EXP 	fourthW: autoDraw = False
+139.1642 	EXP 	fourthW: autoDraw = False
+139.1642 	EXP 	text_6: autoDraw = True
+140.4832 	DATA 	Keypress: y
+140.5140 	EXP 	text_6: autoDraw = False
+140.5140 	EXP 	text_8: autoDraw = True
+141.9981 	EXP 	New trial (rep=0, index=5): OrderedDict([('index', 5), ('path1', 'audio\\set_9\\box_en-IN-Standard-C.wav'), ('path2', 'audio\\set_0\\beat_en-IN-Standard-C.wav'), ('path3', 'audio\\set_9\\rocks_en-IN-Standard-C.wav'), ('path4', 'audio\\set_2\\brood_en-IN-Standard-C.wav'), ('word1', 'box'), ('word2', 'beat'), ('word3', 'rocks'), ('word4', 'brood'), ('delay', 600)])
+142.0137 	EXP 	text_8: autoDraw = False
+142.0137 	EXP 	text_8: autoDraw = False
+142.0137 	EXP 	text_3: autoDraw = True
+142.0137 	EXP 	text_4: autoDraw = True
+145.0133 	EXP 	text_3: autoDraw = False
+145.0133 	EXP 	text_4: autoDraw = False
+145.0133 	EXP 	text_3: autoDraw = False
+145.0133 	EXP 	text_4: autoDraw = False
+145.0133 	EXP 	firstW: height = 0.05000000000000001
+145.0133 	EXP 	firstW: height = 0.05000000000000001
+145.0133 	EXP 	firstW: height = 0.05000000000000001
+145.0133 	EXP 	firstW: text = 'box'
+145.0133 	EXP 	firstW: autoDraw = True
+147.0133 	EXP 	firstW: autoDraw = False
+147.0133 	EXP 	polygon: autoDraw = True
+147.5129 	EXP 	polygon: autoDraw = False
+147.5129 	EXP 	firstW: autoDraw = False
+147.5129 	EXP 	polygon: autoDraw = False
+147.5129 	EXP 	secondW: height = 0.05000000000000001
+147.5129 	EXP 	secondW: height = 0.05000000000000001
+147.5129 	EXP 	secondW: height = 0.05000000000000001
+147.5129 	EXP 	secondW: text = 'beat'
+147.5129 	EXP 	secondW: autoDraw = True
+149.5132 	EXP 	secondW: autoDraw = False
+149.5132 	EXP 	polygon_2: autoDraw = True
+150.0121 	EXP 	polygon_2: autoDraw = False
+150.0121 	EXP 	secondW: autoDraw = False
+150.0121 	EXP 	polygon_2: autoDraw = False
+150.0121 	EXP 	thirdW: height = 0.05000000000000001
+150.0121 	EXP 	thirdW: height = 0.05000000000000001
+150.0121 	EXP 	thirdW: height = 0.05000000000000001
+150.0121 	EXP 	thirdW: text = 'rocks'
+150.0121 	EXP 	thirdW: autoDraw = True
+152.0118 	EXP 	thirdW: autoDraw = False
+152.0118 	EXP 	polygon_3: autoDraw = True
+152.5321 	EXP 	polygon_3: autoDraw = False
+152.5321 	EXP 	thirdW: autoDraw = False
+152.5321 	EXP 	polygon_3: autoDraw = False
+152.5321 	EXP 	fourthW: height = 0.05000000000000001
+152.5321 	EXP 	fourthW: height = 0.05000000000000001
+152.5321 	EXP 	fourthW: height = 0.05000000000000001
+152.5321 	EXP 	fourthW: text = 'brood'
+152.5321 	EXP 	fourthW: autoDraw = True
+153.1118 	EXP 	Sound sound_1 started
+153.8644 	EXP 	Sound sound_1 reached end of file
+153.8645 	EXP 	Sound sound_1 reached end of file
+154.5446 	EXP 	fourthW: autoDraw = False
+154.5446 	EXP 	fourthW: autoDraw = False
+154.5446 	EXP 	text_6: autoDraw = True
+154.9980 	DATA 	Keypress: n
+155.0111 	EXP 	text_6: autoDraw = False
+155.0111 	EXP 	text_8: autoDraw = True
+156.4953 	EXP 	New trial (rep=0, index=6): OrderedDict([('index', 4), ('path1', 'audio\\set_5\\vat_en-IN-Standard-X.wav'), ('path2', 'audio\\set_11\\fall_en-IN-Standard-X.wav'), ('path3', 'audio\\set_11\\wall_en-IN-Standard-X.wav'), ('path4', 'audio\\set_7\\float_en-IN-Standard-X.wav'), ('word1', 'vat'), ('word2', 'fall'), ('word3', 'wall'), ('word4', 'float'), ('delay', 550)])
+156.5109 	EXP 	text_8: autoDraw = False
+156.5109 	EXP 	text_8: autoDraw = False
+156.5109 	EXP 	text_3: autoDraw = True
+156.5109 	EXP 	text_4: autoDraw = True
+159.5103 	EXP 	text_3: autoDraw = False
+159.5103 	EXP 	text_4: autoDraw = False
+159.5103 	EXP 	text_3: autoDraw = False
+159.5103 	EXP 	text_4: autoDraw = False
+159.5103 	EXP 	firstW: height = 0.05000000000000001
+159.5103 	EXP 	firstW: height = 0.05000000000000001
+159.5103 	EXP 	firstW: height = 0.05000000000000001
+159.5103 	EXP 	firstW: text = 'vat'
+159.5103 	EXP 	firstW: autoDraw = True
+161.5100 	EXP 	firstW: autoDraw = False
+161.5100 	EXP 	polygon: autoDraw = True
+162.0098 	EXP 	polygon: autoDraw = False
+162.0098 	EXP 	firstW: autoDraw = False
+162.0098 	EXP 	polygon: autoDraw = False
+162.0098 	EXP 	secondW: height = 0.05000000000000001
+162.0098 	EXP 	secondW: height = 0.05000000000000001
+162.0098 	EXP 	secondW: height = 0.05000000000000001
+162.0098 	EXP 	secondW: text = 'fall'
+162.0098 	EXP 	secondW: autoDraw = True
+164.0104 	EXP 	secondW: autoDraw = False
+164.0104 	EXP 	polygon_2: autoDraw = True
+164.5093 	EXP 	polygon_2: autoDraw = False
+164.5093 	EXP 	secondW: autoDraw = False
+164.5093 	EXP 	polygon_2: autoDraw = False
+164.5093 	EXP 	thirdW: height = 0.05000000000000001
+164.5093 	EXP 	thirdW: height = 0.05000000000000001
+164.5093 	EXP 	thirdW: height = 0.05000000000000001
+164.5093 	EXP 	thirdW: text = 'wall'
+164.5093 	EXP 	thirdW: autoDraw = True
+166.5096 	EXP 	thirdW: autoDraw = False
+166.5096 	EXP 	polygon_3: autoDraw = True
+167.0184 	EXP 	polygon_3: autoDraw = False
+167.0184 	EXP 	thirdW: autoDraw = False
+167.0184 	EXP 	polygon_3: autoDraw = False
+167.0184 	EXP 	fourthW: height = 0.05000000000000001
+167.0184 	EXP 	fourthW: height = 0.05000000000000001
+167.0184 	EXP 	fourthW: height = 0.05000000000000001
+167.0184 	EXP 	fourthW: text = 'float'
+167.0184 	EXP 	fourthW: autoDraw = True
+167.5589 	EXP 	Sound sound_1 started
+168.2365 	EXP 	Sound sound_1 reached end of file
+168.2366 	EXP 	Sound sound_1 reached end of file
+168.8606 	DATA 	Keypress: n
+169.0250 	EXP 	fourthW: autoDraw = False
+169.0250 	EXP 	fourthW: autoDraw = False
+169.0250 	EXP 	text_6: autoDraw = True
+170.5781 	DATA 	Keypress: n
+170.5915 	EXP 	text_6: autoDraw = False
+170.5915 	EXP 	text_8: autoDraw = True
+172.0762 	EXP 	New trial (rep=0, index=7): OrderedDict([('index', 7), ('path1', 'audio\\set_1\\right_en-IN-Standard-X.wav'), ('path2', 'audio\\set_9\\rocks_en-IN-Standard-X.wav'), ('path3', 'audio\\set_8\\grow_en-IN-Standard-X.wav'), ('path4', 'audio\\set_0\\wheat_en-IN-Standard-X.wav'), ('word1', 'right'), ('word2', 'rocks'), ('word3', 'grow'), ('word4', 'wheat'), ('delay', 1000)])
+172.0911 	EXP 	text_8: autoDraw = False
+172.0911 	EXP 	text_8: autoDraw = False
+172.0911 	EXP 	text_3: autoDraw = True
+172.0911 	EXP 	text_4: autoDraw = True
+175.0905 	EXP 	text_3: autoDraw = False
+175.0905 	EXP 	text_4: autoDraw = False
+175.0905 	EXP 	text_3: autoDraw = False
+175.0905 	EXP 	text_4: autoDraw = False
+175.0905 	EXP 	firstW: height = 0.05000000000000001
+175.0905 	EXP 	firstW: height = 0.05000000000000001
+175.0905 	EXP 	firstW: height = 0.05000000000000001
+175.0905 	EXP 	firstW: text = 'right'
+175.0905 	EXP 	firstW: autoDraw = True
+177.0902 	EXP 	firstW: autoDraw = False
+177.0902 	EXP 	polygon: autoDraw = True
+177.5901 	EXP 	polygon: autoDraw = False
+177.5901 	EXP 	firstW: autoDraw = False
+177.5901 	EXP 	polygon: autoDraw = False
+177.5901 	EXP 	secondW: height = 0.05000000000000001
+177.5901 	EXP 	secondW: height = 0.05000000000000001
+177.5901 	EXP 	secondW: height = 0.05000000000000001
+177.5901 	EXP 	secondW: text = 'rocks'
+177.5901 	EXP 	secondW: autoDraw = True
+179.5897 	EXP 	secondW: autoDraw = False
+179.5897 	EXP 	polygon_2: autoDraw = True
+180.0897 	EXP 	polygon_2: autoDraw = False
+180.0897 	EXP 	secondW: autoDraw = False
+180.0897 	EXP 	polygon_2: autoDraw = False
+180.0897 	EXP 	thirdW: height = 0.05000000000000001
+180.0897 	EXP 	thirdW: height = 0.05000000000000001
+180.0897 	EXP 	thirdW: height = 0.05000000000000001
+180.0897 	EXP 	thirdW: text = 'grow'
+180.0897 	EXP 	thirdW: autoDraw = True
+182.0892 	EXP 	thirdW: autoDraw = False
+182.0892 	EXP 	polygon_3: autoDraw = True
+182.6029 	EXP 	polygon_3: autoDraw = False
+182.6029 	EXP 	thirdW: autoDraw = False
+182.6029 	EXP 	polygon_3: autoDraw = False
+182.6029 	EXP 	fourthW: height = 0.05000000000000001
+182.6029 	EXP 	fourthW: height = 0.05000000000000001
+182.6029 	EXP 	fourthW: height = 0.05000000000000001
+182.6029 	EXP 	fourthW: text = 'wheat'
+182.6029 	EXP 	fourthW: autoDraw = True
+183.5890 	EXP 	Sound sound_1 started
+184.2506 	EXP 	Sound sound_1 reached end of file
+184.2507 	EXP 	Sound sound_1 reached end of file
+184.6053 	EXP 	fourthW: autoDraw = False
+184.6053 	EXP 	fourthW: autoDraw = False
+184.6053 	EXP 	text_6: autoDraw = True
+185.6418 	DATA 	Keypress: n
+185.6551 	EXP 	text_6: autoDraw = False
+185.6551 	EXP 	text_8: autoDraw = True
+187.1393 	EXP 	New trial (rep=0, index=8): OrderedDict([('index', 1), ('path1', 'audio\\set_4\\race_en-IN-Standard-X.wav'), ('path2', 'audio\\set_4\\face_en-IN-Standard-X.wav'), ('path3', 'audio\\set_4\\lace_en-IN-Standard-X.wav'), ('path4', 'audio\\set_4\\pace_en-IN-Standard-X.wav'), ('word1', 'ace'), ('word2', 'face'), ('word3', 'lace'), ('word4', 'pace'), ('delay', 200)])
+187.1551 	EXP 	text_8: autoDraw = False
+187.1551 	EXP 	text_8: autoDraw = False
+187.1551 	EXP 	text_3: autoDraw = True
+187.1551 	EXP 	text_4: autoDraw = True
+190.1544 	EXP 	text_3: autoDraw = False
+190.1544 	EXP 	text_4: autoDraw = False
+190.1544 	EXP 	text_3: autoDraw = False
+190.1544 	EXP 	text_4: autoDraw = False
+190.1544 	EXP 	firstW: height = 0.05000000000000001
+190.1544 	EXP 	firstW: height = 0.05000000000000001
+190.1544 	EXP 	firstW: height = 0.05000000000000001
+190.1544 	EXP 	firstW: text = 'ace'
+190.1544 	EXP 	firstW: autoDraw = True
+192.1539 	EXP 	firstW: autoDraw = False
+192.1539 	EXP 	polygon: autoDraw = True
+192.6539 	EXP 	polygon: autoDraw = False
+192.6539 	EXP 	firstW: autoDraw = False
+192.6539 	EXP 	polygon: autoDraw = False
+192.6539 	EXP 	secondW: height = 0.05000000000000001
+192.6539 	EXP 	secondW: height = 0.05000000000000001
+192.6539 	EXP 	secondW: height = 0.05000000000000001
+192.6539 	EXP 	secondW: text = 'face'
+192.6539 	EXP 	secondW: autoDraw = True
+194.6535 	EXP 	secondW: autoDraw = False
+194.6535 	EXP 	polygon_2: autoDraw = True
+195.1534 	EXP 	polygon_2: autoDraw = False
+195.1534 	EXP 	secondW: autoDraw = False
+195.1534 	EXP 	polygon_2: autoDraw = False
+195.1534 	EXP 	thirdW: height = 0.05000000000000001
+195.1534 	EXP 	thirdW: height = 0.05000000000000001
+195.1534 	EXP 	thirdW: height = 0.05000000000000001
+195.1534 	EXP 	thirdW: text = 'lace'
+195.1534 	EXP 	thirdW: autoDraw = True
+197.1536 	EXP 	thirdW: autoDraw = False
+197.1536 	EXP 	polygon_3: autoDraw = True
+197.6528 	EXP 	polygon_3: autoDraw = False
+197.6528 	EXP 	thirdW: autoDraw = False
+197.6528 	EXP 	polygon_3: autoDraw = False
+197.6528 	EXP 	fourthW: height = 0.05000000000000001
+197.6528 	EXP 	fourthW: height = 0.05000000000000001
+197.6528 	EXP 	fourthW: height = 0.05000000000000001
+197.6528 	EXP 	fourthW: text = 'pace'
+197.6528 	EXP 	fourthW: autoDraw = True
+197.8532 	EXP 	Sound sound_1 started
+198.4697 	EXP 	Sound sound_1 reached end of file
+198.4697 	EXP 	Sound sound_1 reached end of file
+199.6524 	EXP 	fourthW: autoDraw = False
+199.6524 	EXP 	fourthW: autoDraw = False
+199.6524 	EXP 	text_6: autoDraw = True
+200.3222 	DATA 	Keypress: y
+200.3356 	EXP 	text_6: autoDraw = False
+200.3356 	EXP 	text_8: autoDraw = True
+201.8198 	EXP 	New trial (rep=0, index=9): OrderedDict([('index', 7), ('path1', 'audio\\set_8\\vow_en-IN-Standard-A.wav'), ('path2', 'audio\\set_7\\throne_en-IN-Standard-A.wav'), ('path3', 'audio\\set_0\\deed_en-IN-Standard-A.wav'), ('path4', 'audio\\set_1\\light_en-IN-Standard-A.wav'), ('word1', 'vow'), ('word2', 'throne'), ('word3', 'deed'), ('word4', 'light'), ('delay', 1000)])
+201.8354 	EXP 	text_8: autoDraw = False
+201.8354 	EXP 	text_8: autoDraw = False
+201.8354 	EXP 	text_3: autoDraw = True
+201.8354 	EXP 	text_4: autoDraw = True
+204.8348 	EXP 	text_3: autoDraw = False
+204.8348 	EXP 	text_4: autoDraw = False
+204.8348 	EXP 	text_3: autoDraw = False
+204.8348 	EXP 	text_4: autoDraw = False
+204.8348 	EXP 	firstW: height = 0.05000000000000001
+204.8348 	EXP 	firstW: height = 0.05000000000000001
+204.8348 	EXP 	firstW: height = 0.05000000000000001
+204.8348 	EXP 	firstW: text = 'vow'
+204.8348 	EXP 	firstW: autoDraw = True
+206.8344 	EXP 	firstW: autoDraw = False
+206.8344 	EXP 	polygon: autoDraw = True
+207.3343 	EXP 	polygon: autoDraw = False
+207.3343 	EXP 	firstW: autoDraw = False
+207.3343 	EXP 	polygon: autoDraw = False
+207.3343 	EXP 	secondW: height = 0.05000000000000001
+207.3343 	EXP 	secondW: height = 0.05000000000000001
+207.3343 	EXP 	secondW: height = 0.05000000000000001
+207.3343 	EXP 	secondW: text = 'throne'
+207.3343 	EXP 	secondW: autoDraw = True
+209.3340 	EXP 	secondW: autoDraw = False
+209.3340 	EXP 	polygon_2: autoDraw = True
+209.8337 	EXP 	polygon_2: autoDraw = False
+209.8337 	EXP 	secondW: autoDraw = False
+209.8337 	EXP 	polygon_2: autoDraw = False
+209.8337 	EXP 	thirdW: height = 0.05000000000000001
+209.8337 	EXP 	thirdW: height = 0.05000000000000001
+209.8337 	EXP 	thirdW: height = 0.05000000000000001
+209.8337 	EXP 	thirdW: text = 'deed'
+209.8337 	EXP 	thirdW: autoDraw = True
+211.8342 	EXP 	thirdW: autoDraw = False
+211.8342 	EXP 	polygon_3: autoDraw = True
+212.3554 	EXP 	polygon_3: autoDraw = False
+212.3554 	EXP 	thirdW: autoDraw = False
+212.3554 	EXP 	polygon_3: autoDraw = False
+212.3554 	EXP 	fourthW: height = 0.05000000000000001
+212.3554 	EXP 	fourthW: height = 0.05000000000000001
+212.3554 	EXP 	fourthW: height = 0.05000000000000001
+212.3554 	EXP 	fourthW: text = 'light'
+212.3554 	EXP 	fourthW: autoDraw = True
+213.3335 	EXP 	Sound sound_1 started
+214.0167 	EXP 	Sound sound_1 reached end of file
+214.0168 	EXP 	Sound sound_1 reached end of file
+214.3673 	EXP 	fourthW: autoDraw = False
+214.3673 	EXP 	fourthW: autoDraw = False
+214.3673 	EXP 	text_6: autoDraw = True
+215.1033 	DATA 	Keypress: n
+215.1161 	EXP 	text_6: autoDraw = False
+215.1161 	EXP 	text_8: autoDraw = True
+216.6012 	EXP 	New trial (rep=0, index=10): OrderedDict([('index', 2), ('path1', 'audio\\set_8\\bow_en-IN-Standard-X.wav'), ('path2', 'audio\\set_8\\grow_en-IN-Standard-X.wav'), ('path3', 'audio\\set_8\\vow_en-IN-Standard-X.wav'), ('path4', 'audio\\set_8\\cow_en-IN-Standard-X.wav'), ('word1', 'bow'), ('word2', 'grow'), ('word3', 'vow'), ('word4', 'cow'), ('delay', 400)])
+216.6159 	EXP 	text_8: autoDraw = False
+216.6159 	EXP 	text_8: autoDraw = False
+216.6159 	EXP 	text_3: autoDraw = True
+216.6159 	EXP 	text_4: autoDraw = True
+219.6156 	EXP 	text_3: autoDraw = False
+219.6156 	EXP 	text_4: autoDraw = False
+219.6156 	EXP 	text_3: autoDraw = False
+219.6156 	EXP 	text_4: autoDraw = False
+219.6156 	EXP 	firstW: height = 0.05000000000000001
+219.6156 	EXP 	firstW: height = 0.05000000000000001
+219.6156 	EXP 	firstW: height = 0.05000000000000001
+219.6156 	EXP 	firstW: text = 'bow'
+219.6156 	EXP 	firstW: autoDraw = True
+221.6154 	EXP 	firstW: autoDraw = False
+221.6154 	EXP 	polygon: autoDraw = True
+222.1150 	EXP 	polygon: autoDraw = False
+222.1150 	EXP 	firstW: autoDraw = False
+222.1150 	EXP 	polygon: autoDraw = False
+222.1150 	EXP 	secondW: height = 0.05000000000000001
+222.1150 	EXP 	secondW: height = 0.05000000000000001
+222.1150 	EXP 	secondW: height = 0.05000000000000001
+222.1150 	EXP 	secondW: text = 'grow'
+222.1150 	EXP 	secondW: autoDraw = True
+224.1146 	EXP 	secondW: autoDraw = False
+224.1146 	EXP 	polygon_2: autoDraw = True
+224.6142 	EXP 	polygon_2: autoDraw = False
+224.6142 	EXP 	secondW: autoDraw = False
+224.6142 	EXP 	polygon_2: autoDraw = False
+224.6142 	EXP 	thirdW: height = 0.05000000000000001
+224.6142 	EXP 	thirdW: height = 0.05000000000000001
+224.6142 	EXP 	thirdW: height = 0.05000000000000001
+224.6142 	EXP 	thirdW: text = 'vow'
+224.6142 	EXP 	thirdW: autoDraw = True
+226.6146 	EXP 	thirdW: autoDraw = False
+226.6146 	EXP 	polygon_3: autoDraw = True
+227.1169 	EXP 	polygon_3: autoDraw = False
+227.1169 	EXP 	thirdW: autoDraw = False
+227.1169 	EXP 	polygon_3: autoDraw = False
+227.1169 	EXP 	fourthW: height = 0.05000000000000001
+227.1169 	EXP 	fourthW: height = 0.05000000000000001
+227.1169 	EXP 	fourthW: height = 0.05000000000000001
+227.1169 	EXP 	fourthW: text = 'cow'
+227.1169 	EXP 	fourthW: autoDraw = True
+227.5141 	EXP 	Sound sound_1 started
+228.0924 	EXP 	Sound sound_1 reached end of file
+228.0925 	EXP 	Sound sound_1 reached end of file
+229.1301 	EXP 	fourthW: autoDraw = False
+229.1301 	EXP 	fourthW: autoDraw = False
+229.1301 	EXP 	text_6: autoDraw = True
+229.2665 	DATA 	Keypress: y
+229.2800 	EXP 	text_6: autoDraw = False
+229.2800 	EXP 	text_8: autoDraw = True
+230.7643 	EXP 	New trial (rep=0, index=11): OrderedDict([('index', 7), ('path1', 'audio\\set_9\\fox_en-IN-Standard-C.wav'), ('path2', 'audio\\set_6\\bee_en-IN-Standard-C.wav'), ('path3', 'audio\\set_0\\beat_en-IN-Standard-C.wav'), ('path4', 'audio\\set_3\\lane_en-IN-Standard-C.wav'), ('word1', 'fox'), ('word2', 'bee'), ('word3', 'beat'), ('word4', 'lane'), ('delay', 1000)])
+230.7800 	EXP 	text_8: autoDraw = False
+230.7800 	EXP 	text_8: autoDraw = False
+230.7800 	EXP 	text_3: autoDraw = True
+230.7800 	EXP 	text_4: autoDraw = True
+233.7792 	EXP 	text_3: autoDraw = False
+233.7792 	EXP 	text_4: autoDraw = False
+233.7792 	EXP 	text_3: autoDraw = False
+233.7792 	EXP 	text_4: autoDraw = False
+233.7792 	EXP 	firstW: height = 0.05000000000000001
+233.7792 	EXP 	firstW: height = 0.05000000000000001
+233.7792 	EXP 	firstW: height = 0.05000000000000001
+233.7792 	EXP 	firstW: text = 'fox'
+233.7792 	EXP 	firstW: autoDraw = True
+235.7788 	EXP 	firstW: autoDraw = False
+235.7788 	EXP 	polygon: autoDraw = True
+236.2786 	EXP 	polygon: autoDraw = False
+236.2786 	EXP 	firstW: autoDraw = False
+236.2786 	EXP 	polygon: autoDraw = False
+236.2786 	EXP 	secondW: height = 0.05000000000000001
+236.2786 	EXP 	secondW: height = 0.05000000000000001
+236.2786 	EXP 	secondW: height = 0.05000000000000001
+236.2786 	EXP 	secondW: text = 'bee'
+236.2786 	EXP 	secondW: autoDraw = True
+238.2791 	EXP 	secondW: autoDraw = False
+238.2791 	EXP 	polygon_2: autoDraw = True
+238.7782 	EXP 	polygon_2: autoDraw = False
+238.7782 	EXP 	secondW: autoDraw = False
+238.7782 	EXP 	polygon_2: autoDraw = False
+238.7782 	EXP 	thirdW: height = 0.05000000000000001
+238.7782 	EXP 	thirdW: height = 0.05000000000000001
+238.7782 	EXP 	thirdW: height = 0.05000000000000001
+238.7782 	EXP 	thirdW: text = 'beat'
+238.7782 	EXP 	thirdW: autoDraw = True
+240.7779 	EXP 	thirdW: autoDraw = False
+240.7779 	EXP 	polygon_3: autoDraw = True
+241.2952 	EXP 	polygon_3: autoDraw = False
+241.2952 	EXP 	thirdW: autoDraw = False
+241.2952 	EXP 	polygon_3: autoDraw = False
+241.2952 	EXP 	fourthW: height = 0.05000000000000001
+241.2952 	EXP 	fourthW: height = 0.05000000000000001
+241.2952 	EXP 	fourthW: height = 0.05000000000000001
+241.2952 	EXP 	fourthW: text = 'lane'
+241.2952 	EXP 	fourthW: autoDraw = True
+242.2785 	EXP 	Sound sound_1 started
+243.0082 	EXP 	Sound sound_1 reached end of file
+243.0083 	EXP 	Sound sound_1 reached end of file
+243.3105 	EXP 	fourthW: autoDraw = False
+243.3105 	EXP 	fourthW: autoDraw = False
+243.3105 	EXP 	text_6: autoDraw = True
+243.8640 	DATA 	Keypress: n
+243.8778 	EXP 	text_6: autoDraw = False
+243.8778 	EXP 	text_8: autoDraw = True
+245.3612 	EXP 	New trial (rep=0, index=12): OrderedDict([('index', 2), ('path1', 'audio\\set_10\\guy_en-IN-Standard-A.wav'), ('path2', 'audio\\set_10\\fly_en-IN-Standard-A.wav'), ('path3', 'audio\\set_10\nigh_en-IN-Standard-A.wav'), ('path4', 'audio\\set_10\\guy_en-IN-Standard-A.wav'), ('word1', 'guy'), ('word2', 'fly'), ('word3', 'nigh'), ('word4', 'guy'), ('delay', 400)])
+245.3770 	EXP 	text_8: autoDraw = False
+245.3770 	EXP 	text_8: autoDraw = False
+245.3770 	EXP 	text_3: autoDraw = True
+245.3770 	EXP 	text_4: autoDraw = True
+248.3764 	EXP 	text_3: autoDraw = False
+248.3764 	EXP 	text_4: autoDraw = False
+248.3764 	EXP 	text_3: autoDraw = False
+248.3764 	EXP 	text_4: autoDraw = False
+248.3764 	EXP 	firstW: height = 0.05000000000000001
+248.3764 	EXP 	firstW: height = 0.05000000000000001
+248.3764 	EXP 	firstW: height = 0.05000000000000001
+248.3764 	EXP 	firstW: text = 'guy'
+248.3764 	EXP 	firstW: autoDraw = True
+250.3769 	EXP 	firstW: autoDraw = False
+250.3769 	EXP 	polygon: autoDraw = True
+250.8758 	EXP 	polygon: autoDraw = False
+250.8758 	EXP 	firstW: autoDraw = False
+250.8758 	EXP 	polygon: autoDraw = False
+250.8758 	EXP 	secondW: height = 0.05000000000000001
+250.8758 	EXP 	secondW: height = 0.05000000000000001
+250.8758 	EXP 	secondW: height = 0.05000000000000001
+250.8758 	EXP 	secondW: text = 'fly'
+250.8758 	EXP 	secondW: autoDraw = True
+252.8763 	EXP 	secondW: autoDraw = False
+252.8763 	EXP 	polygon_2: autoDraw = True
+253.3757 	EXP 	polygon_2: autoDraw = False
+253.3757 	EXP 	secondW: autoDraw = False
+253.3757 	EXP 	polygon_2: autoDraw = False
+253.3757 	EXP 	thirdW: height = 0.05000000000000001
+253.3757 	EXP 	thirdW: height = 0.05000000000000001
+253.3757 	EXP 	thirdW: height = 0.05000000000000001
+253.3757 	EXP 	thirdW: text = 'nigh'
+253.3757 	EXP 	thirdW: autoDraw = True
+255.3756 	EXP 	thirdW: autoDraw = False
+255.3756 	EXP 	polygon_3: autoDraw = True
+255.8749 	EXP 	polygon_3: autoDraw = False
+255.8749 	EXP 	thirdW: autoDraw = False
+255.8749 	EXP 	polygon_3: autoDraw = False
+255.8749 	EXP 	fourthW: height = 0.05000000000000001
+255.8749 	EXP 	fourthW: height = 0.05000000000000001
+255.8749 	EXP 	fourthW: height = 0.05000000000000001
+255.8749 	EXP 	fourthW: text = 'guy'
+255.8749 	EXP 	fourthW: autoDraw = True
+256.2751 	EXP 	Sound sound_1 started
+256.9792 	EXP 	Sound sound_1 reached end of file
+256.9793 	EXP 	Sound sound_1 reached end of file
+257.8746 	EXP 	fourthW: autoDraw = False
+257.8746 	EXP 	fourthW: autoDraw = False
+257.8746 	EXP 	text_6: autoDraw = True
+261.1113 	DATA 	Keypress: n
+261.1237 	EXP 	text_6: autoDraw = False
+261.1237 	EXP 	text_8: autoDraw = True
+262.6081 	EXP 	New trial (rep=0, index=13): OrderedDict([('index', 6), ('path1', 'audio\\set_4\\face_en-IN-Standard-C.wav'), ('path2', 'audio\\set_5\\cat_en-IN-Standard-C.wav'), ('path3', 'audio\\set_4\\lace_en-IN-Standard-C.wav'), ('path4', 'audio\\set_5\\sat_en-IN-Standard-C.wav'), ('word1', 'face'), ('word2', 'cat'), ('word3', 'lace'), ('word4', 'sat'), ('delay', 800)])
+262.6235 	EXP 	text_8: autoDraw = False
+262.6235 	EXP 	text_8: autoDraw = False
+262.6235 	EXP 	text_3: autoDraw = True
+262.6235 	EXP 	text_4: autoDraw = True
+265.6231 	EXP 	text_3: autoDraw = False
+265.6231 	EXP 	text_4: autoDraw = False
+265.6231 	EXP 	text_3: autoDraw = False
+265.6231 	EXP 	text_4: autoDraw = False
+265.6231 	EXP 	firstW: height = 0.05000000000000001
+265.6231 	EXP 	firstW: height = 0.05000000000000001
+265.6231 	EXP 	firstW: height = 0.05000000000000001
+265.6231 	EXP 	firstW: text = 'face'
+265.6231 	EXP 	firstW: autoDraw = True
+267.6226 	EXP 	firstW: autoDraw = False
+267.6226 	EXP 	polygon: autoDraw = True
+268.1225 	EXP 	polygon: autoDraw = False
+268.1225 	EXP 	firstW: autoDraw = False
+268.1225 	EXP 	polygon: autoDraw = False
+268.1225 	EXP 	secondW: height = 0.05000000000000001
+268.1225 	EXP 	secondW: height = 0.05000000000000001
+268.1225 	EXP 	secondW: height = 0.05000000000000001
+268.1225 	EXP 	secondW: text = 'cat'
+268.1225 	EXP 	secondW: autoDraw = True
+270.1232 	EXP 	secondW: autoDraw = False
+270.1232 	EXP 	polygon_2: autoDraw = True
+270.6387 	EXP 	secondW: autoDraw = False
+270.6387 	EXP 	polygon_2: autoDraw = False
+270.6387 	EXP 	thirdW: height = 0.05000000000000001
+270.6387 	EXP 	thirdW: height = 0.05000000000000001
+270.6387 	EXP 	thirdW: height = 0.05000000000000001
+270.6387 	EXP 	thirdW: text = 'lace'
+270.6387 	EXP 	thirdW: autoDraw = True
+272.6215 	EXP 	polygon_3: autoDraw = True
+272.6391 	EXP 	thirdW: autoDraw = False
+273.1330 	EXP 	polygon_3: autoDraw = False
+273.1330 	EXP 	thirdW: autoDraw = False
+273.1330 	EXP 	polygon_3: autoDraw = False
+273.1330 	EXP 	fourthW: height = 0.05000000000000001
+273.1330 	EXP 	fourthW: height = 0.05000000000000001
+273.1330 	EXP 	fourthW: height = 0.05000000000000001
+273.1330 	EXP 	fourthW: text = 'sat'
+273.1330 	EXP 	fourthW: autoDraw = True
+273.9218 	EXP 	Sound sound_1 started
+274.6066 	EXP 	Sound sound_1 reached end of file
+274.6067 	EXP 	Sound sound_1 reached end of file
+275.1378 	EXP 	fourthW: autoDraw = False
+275.1378 	EXP 	fourthW: autoDraw = False
+275.1378 	EXP 	text_6: autoDraw = True
+287.1385 	DATA 	Keypress: n
+287.1689 	EXP 	text_6: autoDraw = False
+287.1689 	EXP 	text_8: autoDraw = True
+288.6529 	EXP 	New trial (rep=0, index=14): OrderedDict([('index', 2), ('path1', 'audio\\set_7\\boat_en-IN-Standard-C.wav'), ('path2', 'audio\\set_7\\goat_en-IN-Standard-C.wav'), ('path3', 'audio\\set_7\\moat_en-IN-Standard-C.wav'), ('path4', 'audio\\set_7\\float_en-IN-Standard-C.wav'), ('word1', 'boat'), ('word2', 'goat'), ('word3', 'moat'), ('word4', 'float'), ('delay', 400)])
+288.6685 	EXP 	text_8: autoDraw = False
+288.6685 	EXP 	text_8: autoDraw = False
+288.6685 	EXP 	text_3: autoDraw = True
+288.6685 	EXP 	text_4: autoDraw = True
+291.6680 	EXP 	text_3: autoDraw = False
+291.6680 	EXP 	text_4: autoDraw = False
+291.6680 	EXP 	text_3: autoDraw = False
+291.6680 	EXP 	text_4: autoDraw = False
+291.6680 	EXP 	firstW: height = 0.05000000000000001
+291.6680 	EXP 	firstW: height = 0.05000000000000001
+291.6680 	EXP 	firstW: height = 0.05000000000000001
+291.6680 	EXP 	firstW: text = 'boat'
+291.6680 	EXP 	firstW: autoDraw = True
+293.6676 	EXP 	firstW: autoDraw = False
+293.6676 	EXP 	polygon: autoDraw = True
+294.1673 	EXP 	polygon: autoDraw = False
+294.1673 	EXP 	firstW: autoDraw = False
+294.1673 	EXP 	polygon: autoDraw = False
+294.1673 	EXP 	secondW: height = 0.05000000000000001
+294.1673 	EXP 	secondW: height = 0.05000000000000001
+294.1673 	EXP 	secondW: height = 0.05000000000000001
+294.1673 	EXP 	secondW: text = 'goat'
+294.1673 	EXP 	secondW: autoDraw = True
+296.1680 	EXP 	secondW: autoDraw = False
+296.1680 	EXP 	polygon_2: autoDraw = True
+296.6670 	EXP 	polygon_2: autoDraw = False
+296.6670 	EXP 	secondW: autoDraw = False
+296.6670 	EXP 	polygon_2: autoDraw = False
+296.6670 	EXP 	thirdW: height = 0.05000000000000001
+296.6670 	EXP 	thirdW: height = 0.05000000000000001
+296.6670 	EXP 	thirdW: height = 0.05000000000000001
+296.6670 	EXP 	thirdW: text = 'moat'
+296.6670 	EXP 	thirdW: autoDraw = True
+298.6665 	EXP 	thirdW: autoDraw = False
+298.6665 	EXP 	polygon_3: autoDraw = True
+299.1663 	EXP 	polygon_3: autoDraw = False
+299.1663 	EXP 	thirdW: autoDraw = False
+299.1663 	EXP 	polygon_3: autoDraw = False
+299.1663 	EXP 	fourthW: height = 0.05000000000000001
+299.1663 	EXP 	fourthW: height = 0.05000000000000001
+299.1663 	EXP 	fourthW: height = 0.05000000000000001
+299.1663 	EXP 	fourthW: text = 'float'
+299.1663 	EXP 	fourthW: autoDraw = True
+299.5668 	EXP 	Sound sound_1 started
+300.2864 	EXP 	Sound sound_1 reached end of file
+300.2866 	EXP 	Sound sound_1 reached end of file
+301.1661 	EXP 	fourthW: autoDraw = False
+301.1661 	EXP 	fourthW: autoDraw = False
+301.1661 	EXP 	text_6: autoDraw = True
+301.9692 	DATA 	Keypress: y
+301.9827 	EXP 	text_6: autoDraw = False
+301.9827 	EXP 	text_8: autoDraw = True
+303.4666 	EXP 	New trial (rep=0, index=15): OrderedDict([('index', 6), ('path1', 'audio\\set_5\\sat_en-IN-Standard-A.wav'), ('path2', 'audio\\set_0\\wheat_en-IN-Standard-A.wav'), ('path3', 'audio\\set_4\\race_en-IN-Standard-A.wav'), ('path4', 'audio\\set_9\\box_en-IN-Standard-A.wav'), ('word1', 'sat'), ('word2', 'heat'), ('word3', 'ace'), ('word4', 'box'), ('delay', 800)])
+303.4824 	EXP 	text_8: autoDraw = False
+303.4824 	EXP 	text_8: autoDraw = False
+303.4824 	EXP 	text_3: autoDraw = True
+303.4824 	EXP 	text_4: autoDraw = True
+306.4817 	EXP 	text_3: autoDraw = False
+306.4817 	EXP 	text_4: autoDraw = False
+306.4817 	EXP 	text_3: autoDraw = False
+306.4817 	EXP 	text_4: autoDraw = False
+306.4817 	EXP 	firstW: height = 0.05000000000000001
+306.4817 	EXP 	firstW: height = 0.05000000000000001
+306.4817 	EXP 	firstW: height = 0.05000000000000001
+306.4817 	EXP 	firstW: text = 'sat'
+306.4817 	EXP 	firstW: autoDraw = True
+308.4820 	EXP 	firstW: autoDraw = False
+308.4820 	EXP 	polygon: autoDraw = True
+308.9812 	EXP 	polygon: autoDraw = False
+308.9812 	EXP 	firstW: autoDraw = False
+308.9812 	EXP 	polygon: autoDraw = False
+308.9812 	EXP 	secondW: height = 0.05000000000000001
+308.9812 	EXP 	secondW: height = 0.05000000000000001
+308.9812 	EXP 	secondW: height = 0.05000000000000001
+308.9812 	EXP 	secondW: text = 'heat'
+308.9812 	EXP 	secondW: autoDraw = True
+310.9818 	EXP 	secondW: autoDraw = False
+310.9818 	EXP 	polygon_2: autoDraw = True
+311.4808 	EXP 	polygon_2: autoDraw = False
+311.4808 	EXP 	secondW: autoDraw = False
+311.4808 	EXP 	polygon_2: autoDraw = False
+311.4808 	EXP 	thirdW: height = 0.05000000000000001
+311.4808 	EXP 	thirdW: height = 0.05000000000000001
+311.4808 	EXP 	thirdW: height = 0.05000000000000001
+311.4808 	EXP 	thirdW: text = 'ace'
+311.4808 	EXP 	thirdW: autoDraw = True
+313.4804 	EXP 	thirdW: autoDraw = False
+313.4804 	EXP 	polygon_3: autoDraw = True
+313.9983 	EXP 	polygon_3: autoDraw = False
+313.9983 	EXP 	thirdW: autoDraw = False
+313.9983 	EXP 	polygon_3: autoDraw = False
+313.9983 	EXP 	fourthW: height = 0.05000000000000001
+313.9983 	EXP 	fourthW: height = 0.05000000000000001
+313.9983 	EXP 	fourthW: height = 0.05000000000000001
+313.9983 	EXP 	fourthW: text = 'box'
+313.9983 	EXP 	fourthW: autoDraw = True
+314.7804 	EXP 	Sound sound_1 started
+315.5293 	EXP 	Sound sound_1 reached end of file
+315.5294 	EXP 	Sound sound_1 reached end of file
+315.9967 	EXP 	fourthW: autoDraw = False
+315.9967 	EXP 	fourthW: autoDraw = False
+315.9967 	EXP 	text_6: autoDraw = True
+323.0655 	DATA 	Keypress: n
+323.0952 	EXP 	text_6: autoDraw = False
+323.0952 	EXP 	text_8: autoDraw = True
+324.5792 	EXP 	New trial (rep=0, index=16): OrderedDict([('index', 4), ('path1', 'audio\\set_7\\moat_en-IN-Standard-C.wav'), ('path2', 'audio\\set_10\\fly_en-IN-Standard-C.wav'), ('path3', 'audio\\set_8\\vow_en-IN-Standard-C.wav'), ('path4', 'audio\\set_2\\wood_en-IN-Standard-C.wav'), ('word1', 'moat'), ('word2', 'fly'), ('word3', 'vow'), ('word4', 'wood'), ('delay', 550)])
+324.5949 	EXP 	text_8: autoDraw = False
+324.5949 	EXP 	text_8: autoDraw = False
+324.5949 	EXP 	text_3: autoDraw = True
+324.5949 	EXP 	text_4: autoDraw = True
+327.5944 	EXP 	text_3: autoDraw = False
+327.5944 	EXP 	text_4: autoDraw = False
+327.5944 	EXP 	text_3: autoDraw = False
+327.5944 	EXP 	text_4: autoDraw = False
+327.5944 	EXP 	firstW: height = 0.05000000000000001
+327.5944 	EXP 	firstW: height = 0.05000000000000001
+327.5944 	EXP 	firstW: height = 0.05000000000000001
+327.5944 	EXP 	firstW: text = 'moat'
+327.5944 	EXP 	firstW: autoDraw = True
+329.5939 	EXP 	firstW: autoDraw = False
+329.5939 	EXP 	polygon: autoDraw = True
+330.0937 	EXP 	polygon: autoDraw = False
+330.0937 	EXP 	firstW: autoDraw = False
+330.0937 	EXP 	polygon: autoDraw = False
+330.0937 	EXP 	secondW: height = 0.05000000000000001
+330.0937 	EXP 	secondW: height = 0.05000000000000001
+330.0937 	EXP 	secondW: height = 0.05000000000000001
+330.0937 	EXP 	secondW: text = 'fly'
+330.0937 	EXP 	secondW: autoDraw = True
+332.0934 	EXP 	secondW: autoDraw = False
+332.0934 	EXP 	polygon_2: autoDraw = True
+332.5934 	EXP 	polygon_2: autoDraw = False
+332.5934 	EXP 	secondW: autoDraw = False
+332.5934 	EXP 	polygon_2: autoDraw = False
+332.5934 	EXP 	thirdW: height = 0.05000000000000001
+332.5934 	EXP 	thirdW: height = 0.05000000000000001
+332.5934 	EXP 	thirdW: height = 0.05000000000000001
+332.5934 	EXP 	thirdW: text = 'vow'
+332.5934 	EXP 	thirdW: autoDraw = True
+334.5939 	EXP 	thirdW: autoDraw = False
+334.5939 	EXP 	polygon_3: autoDraw = True
+335.1164 	EXP 	polygon_3: autoDraw = False
+335.1164 	EXP 	thirdW: autoDraw = False
+335.1164 	EXP 	polygon_3: autoDraw = False
+335.1164 	EXP 	fourthW: height = 0.05000000000000001
+335.1164 	EXP 	fourthW: height = 0.05000000000000001
+335.1164 	EXP 	fourthW: height = 0.05000000000000001
+335.1164 	EXP 	fourthW: text = 'wood'
+335.1164 	EXP 	fourthW: autoDraw = True
+335.6431 	EXP 	Sound sound_1 started
+336.2604 	EXP 	Sound sound_1 reached end of file
+336.2604 	EXP 	Sound sound_1 reached end of file
+337.1279 	EXP 	fourthW: autoDraw = False
+337.1279 	EXP 	fourthW: autoDraw = False
+337.1279 	EXP 	text_6: autoDraw = True
+340.7449 	DATA 	Keypress: n
+340.7585 	EXP 	text_6: autoDraw = False
+340.7585 	EXP 	text_8: autoDraw = True
+342.2431 	EXP 	New trial (rep=0, index=17): OrderedDict([('index', 5), ('path1', 'audio\\set_11\\fall_en-IN-Standard-A.wav'), ('path2', 'audio\\set_9\\fox_en-IN-Standard-A.wav'), ('path3', 'audio\\set_6\\dee_en-IN-Standard-A.wav'), ('path4', 'audio\\set_7\\throne_en-IN-Standard-A.wav'), ('word1', 'fall'), ('word2', 'fox'), ('word3', 'dee'), ('word4', 'throne'), ('delay', 600)])
+342.2580 	EXP 	text_8: autoDraw = False
+342.2580 	EXP 	text_8: autoDraw = False
+342.2580 	EXP 	text_3: autoDraw = True
+342.2580 	EXP 	text_4: autoDraw = True
+345.2575 	EXP 	text_3: autoDraw = False
+345.2575 	EXP 	text_4: autoDraw = False
+345.2575 	EXP 	text_3: autoDraw = False
+345.2575 	EXP 	text_4: autoDraw = False
+345.2575 	EXP 	firstW: height = 0.05000000000000001
+345.2575 	EXP 	firstW: height = 0.05000000000000001
+345.2575 	EXP 	firstW: height = 0.05000000000000001
+345.2575 	EXP 	firstW: text = 'fall'
+345.2575 	EXP 	firstW: autoDraw = True
+347.2580 	EXP 	firstW: autoDraw = False
+347.2580 	EXP 	polygon: autoDraw = True
+347.7570 	EXP 	polygon: autoDraw = False
+347.7570 	EXP 	firstW: autoDraw = False
+347.7570 	EXP 	polygon: autoDraw = False
+347.7570 	EXP 	secondW: height = 0.05000000000000001
+347.7570 	EXP 	secondW: height = 0.05000000000000001
+347.7570 	EXP 	secondW: height = 0.05000000000000001
+347.7570 	EXP 	secondW: text = 'fox'
+347.7570 	EXP 	secondW: autoDraw = True
+349.7568 	EXP 	secondW: autoDraw = False
+349.7568 	EXP 	polygon_2: autoDraw = True
+350.2572 	EXP 	polygon_2: autoDraw = False
+350.2572 	EXP 	secondW: autoDraw = False
+350.2572 	EXP 	polygon_2: autoDraw = False
+350.2572 	EXP 	thirdW: height = 0.05000000000000001
+350.2572 	EXP 	thirdW: height = 0.05000000000000001
+350.2572 	EXP 	thirdW: height = 0.05000000000000001
+350.2572 	EXP 	thirdW: text = 'dee'
+350.2572 	EXP 	thirdW: autoDraw = True
+352.2562 	EXP 	polygon_3: autoDraw = True
+352.2735 	EXP 	thirdW: autoDraw = False
+352.7704 	EXP 	polygon_3: autoDraw = False
+352.7704 	EXP 	thirdW: autoDraw = False
+352.7704 	EXP 	polygon_3: autoDraw = False
+352.7704 	EXP 	fourthW: height = 0.05000000000000001
+352.7704 	EXP 	fourthW: height = 0.05000000000000001
+352.7704 	EXP 	fourthW: height = 0.05000000000000001
+352.7704 	EXP 	fourthW: text = 'throne'
+352.7704 	EXP 	fourthW: autoDraw = True
+353.3572 	EXP 	Sound sound_1 started
+354.0569 	EXP 	Sound sound_1 reached end of file
+354.0570 	EXP 	Sound sound_1 reached end of file
+354.7722 	EXP 	fourthW: autoDraw = False
+354.7722 	EXP 	fourthW: autoDraw = False
+354.7722 	EXP 	text_6: autoDraw = True
+355.5921 	DATA 	Keypress: y
+355.6056 	EXP 	text_6: autoDraw = False
+355.6056 	EXP 	text_8: autoDraw = True
+357.0897 	EXP 	New trial (rep=0, index=18): OrderedDict([('index', 0), ('path1', 'audio\\set_5\\bat_en-IN-Standard-X.wav'), ('path2', 'audio\\set_5\\rat_en-IN-Standard-X.wav'), ('path3', 'audio\\set_5\\sat_en-IN-Standard-X.wav'), ('path4', 'audio\\set_5\\vat_en-IN-Standard-X.wav'), ('word1', 'bat'), ('word2', 'rat'), ('word3', 'sat'), ('word4', 'vat'), ('delay', 0)])
+357.1053 	EXP 	text_8: autoDraw = False
+357.1053 	EXP 	text_8: autoDraw = False
+357.1053 	EXP 	text_3: autoDraw = True
+357.1053 	EXP 	text_4: autoDraw = True
+360.1047 	EXP 	text_3: autoDraw = False
+360.1047 	EXP 	text_4: autoDraw = False
+360.1047 	EXP 	text_3: autoDraw = False
+360.1047 	EXP 	text_4: autoDraw = False
+360.1047 	EXP 	firstW: height = 0.05000000000000001
+360.1047 	EXP 	firstW: height = 0.05000000000000001
+360.1047 	EXP 	firstW: height = 0.05000000000000001
+360.1047 	EXP 	firstW: text = 'bat'
+360.1047 	EXP 	firstW: autoDraw = True
+362.1052 	EXP 	firstW: autoDraw = False
+362.1052 	EXP 	polygon: autoDraw = True
+362.6208 	EXP 	firstW: autoDraw = False
+362.6208 	EXP 	polygon: autoDraw = False
+362.6208 	EXP 	secondW: height = 0.05000000000000001
+362.6208 	EXP 	secondW: height = 0.05000000000000001
+362.6208 	EXP 	secondW: height = 0.05000000000000001
+362.6208 	EXP 	secondW: text = 'rat'
+362.6208 	EXP 	secondW: autoDraw = True
+364.6038 	EXP 	polygon_2: autoDraw = True
+364.6207 	EXP 	secondW: autoDraw = False
+365.1037 	EXP 	polygon_2: autoDraw = False
+365.1037 	EXP 	secondW: autoDraw = False
+365.1037 	EXP 	polygon_2: autoDraw = False
+365.1037 	EXP 	thirdW: height = 0.05000000000000001
+365.1037 	EXP 	thirdW: height = 0.05000000000000001
+365.1037 	EXP 	thirdW: height = 0.05000000000000001
+365.1037 	EXP 	thirdW: text = 'sat'
+365.1037 	EXP 	thirdW: autoDraw = True
+367.1041 	EXP 	thirdW: autoDraw = False
+367.1041 	EXP 	polygon_3: autoDraw = True
+367.6103 	EXP 	Sound sound_1 started
+367.6144 	EXP 	polygon_3: autoDraw = False
+367.6144 	EXP 	thirdW: autoDraw = False
+367.6144 	EXP 	polygon_3: autoDraw = False
+367.6144 	EXP 	fourthW: height = 0.05000000000000001
+367.6144 	EXP 	fourthW: height = 0.05000000000000001
+367.6144 	EXP 	fourthW: height = 0.05000000000000001
+367.6144 	EXP 	fourthW: text = 'vat'
+367.6144 	EXP 	fourthW: autoDraw = True
+368.2719 	EXP 	Sound sound_1 reached end of file
+368.2720 	EXP 	Sound sound_1 reached end of file
+369.6200 	EXP 	fourthW: autoDraw = False
+369.6200 	EXP 	fourthW: autoDraw = False
+369.6200 	EXP 	text_6: autoDraw = True
+370.0886 	DATA 	Keypress: y
+370.1196 	EXP 	text_6: autoDraw = False
+370.1196 	EXP 	text_8: autoDraw = True
+371.6035 	EXP 	New trial (rep=0, index=19): OrderedDict([('index', 3), ('path1', 'audio\\set_2\\mood_en-IN-Standard-A.wav'), ('path2', 'audio\\set_2\\good_en-IN-Standard-A.wav'), ('path3', 'audio\\set_2\\wood_en-IN-Standard-A.wav'), ('path4', 'audio\\set_2\\brood_en-IN-Standard-A.wav'), ('word1', 'mood'), ('word2', 'good'), ('word3', 'wood'), ('word4', 'brood'), ('delay', 500)])
+371.6191 	EXP 	text_8: autoDraw = False
+371.6191 	EXP 	text_8: autoDraw = False
+371.6191 	EXP 	text_3: autoDraw = True
+371.6191 	EXP 	text_4: autoDraw = True
+374.6184 	EXP 	text_3: autoDraw = False
+374.6184 	EXP 	text_4: autoDraw = False
+374.6184 	EXP 	text_3: autoDraw = False
+374.6184 	EXP 	text_4: autoDraw = False
+374.6184 	EXP 	firstW: height = 0.05000000000000001
+374.6184 	EXP 	firstW: height = 0.05000000000000001
+374.6184 	EXP 	firstW: height = 0.05000000000000001
+374.6184 	EXP 	firstW: text = 'mood'
+374.6184 	EXP 	firstW: autoDraw = True
+376.6183 	EXP 	firstW: autoDraw = False
+376.6183 	EXP 	polygon: autoDraw = True
+377.1179 	EXP 	polygon: autoDraw = False
+377.1179 	EXP 	firstW: autoDraw = False
+377.1179 	EXP 	polygon: autoDraw = False
+377.1179 	EXP 	secondW: height = 0.05000000000000001
+377.1179 	EXP 	secondW: height = 0.05000000000000001
+377.1179 	EXP 	secondW: height = 0.05000000000000001
+377.1179 	EXP 	secondW: text = 'good'
+377.1179 	EXP 	secondW: autoDraw = True
+379.1175 	EXP 	secondW: autoDraw = False
+379.1175 	EXP 	polygon_2: autoDraw = True
+379.6177 	EXP 	polygon_2: autoDraw = False
+379.6177 	EXP 	secondW: autoDraw = False
+379.6177 	EXP 	polygon_2: autoDraw = False
+379.6177 	EXP 	thirdW: height = 0.05000000000000001
+379.6177 	EXP 	thirdW: height = 0.05000000000000001
+379.6177 	EXP 	thirdW: height = 0.05000000000000001
+379.6177 	EXP 	thirdW: text = 'wood'
+379.6177 	EXP 	thirdW: autoDraw = True
+381.6173 	EXP 	thirdW: autoDraw = False
+381.6173 	EXP 	polygon_3: autoDraw = True
+382.1172 	EXP 	polygon_3: autoDraw = False
+382.1172 	EXP 	thirdW: autoDraw = False
+382.1172 	EXP 	polygon_3: autoDraw = False
+382.1172 	EXP 	fourthW: height = 0.05000000000000001
+382.1172 	EXP 	fourthW: height = 0.05000000000000001
+382.1172 	EXP 	fourthW: height = 0.05000000000000001
+382.1172 	EXP 	fourthW: text = 'brood'
+382.1172 	EXP 	fourthW: autoDraw = True
+382.6182 	EXP 	Sound sound_1 started
+383.3622 	EXP 	Sound sound_1 reached end of file
+383.3624 	EXP 	Sound sound_1 reached end of file
+384.1167 	EXP 	fourthW: autoDraw = False
+384.1167 	EXP 	fourthW: autoDraw = False
+384.1167 	EXP 	text_6: autoDraw = True
+386.5529 	DATA 	Keypress: y
+386.5663 	EXP 	text_6: autoDraw = False
+386.5663 	EXP 	text_8: autoDraw = True
+388.0502 	EXP 	New trial (rep=0, index=20): OrderedDict([('index', 6), ('path1', 'audio\\set_9\\fox_en-IN-Standard-X.wav'), ('path2', 'audio\\set_5\\vat_en-IN-Standard-X.wav'), ('path3', 'audio\\set_3\\main_en-IN-Standard-X.wav'), ('path4', 'audio\\set_3\\train_en-IN-Standard-X.wav'), ('word1', 'fox'), ('word2', 'vat'), ('word3', 'main'), ('word4', 'rain'), ('delay', 800)])
+388.0660 	EXP 	text_8: autoDraw = False
+388.0660 	EXP 	text_8: autoDraw = False
+388.0660 	EXP 	text_3: autoDraw = True
+388.0660 	EXP 	text_4: autoDraw = True
+391.0653 	EXP 	text_3: autoDraw = False
+391.0653 	EXP 	text_4: autoDraw = False
+391.0653 	EXP 	text_3: autoDraw = False
+391.0653 	EXP 	text_4: autoDraw = False
+391.0653 	EXP 	firstW: height = 0.05000000000000001
+391.0653 	EXP 	firstW: height = 0.05000000000000001
+391.0653 	EXP 	firstW: height = 0.05000000000000001
+391.0653 	EXP 	firstW: text = 'fox'
+391.0653 	EXP 	firstW: autoDraw = True
+393.0658 	EXP 	firstW: autoDraw = False
+393.0658 	EXP 	polygon: autoDraw = True
+393.5814 	EXP 	firstW: autoDraw = False
+393.5814 	EXP 	polygon: autoDraw = False
+393.5814 	EXP 	secondW: height = 0.05000000000000001
+393.5814 	EXP 	secondW: height = 0.05000000000000001
+393.5814 	EXP 	secondW: height = 0.05000000000000001
+393.5814 	EXP 	secondW: text = 'vat'
+393.5814 	EXP 	secondW: autoDraw = True
+395.5646 	EXP 	polygon_2: autoDraw = True
+395.5822 	EXP 	secondW: autoDraw = False
+396.0644 	EXP 	polygon_2: autoDraw = False
+396.0644 	EXP 	secondW: autoDraw = False
+396.0644 	EXP 	polygon_2: autoDraw = False
+396.0644 	EXP 	thirdW: height = 0.05000000000000001
+396.0644 	EXP 	thirdW: height = 0.05000000000000001
+396.0644 	EXP 	thirdW: height = 0.05000000000000001
+396.0644 	EXP 	thirdW: text = 'main'
+396.0644 	EXP 	thirdW: autoDraw = True
+398.0650 	EXP 	thirdW: autoDraw = False
+398.0650 	EXP 	polygon_3: autoDraw = True
+398.5639 	EXP 	polygon_3: autoDraw = False
+398.5639 	EXP 	thirdW: autoDraw = False
+398.5639 	EXP 	polygon_3: autoDraw = False
+398.5639 	EXP 	fourthW: height = 0.05000000000000001
+398.5639 	EXP 	fourthW: height = 0.05000000000000001
+398.5639 	EXP 	fourthW: height = 0.05000000000000001
+398.5639 	EXP 	fourthW: text = 'rain'
+398.5639 	EXP 	fourthW: autoDraw = True
+399.3641 	EXP 	Sound sound_1 started
+400.0176 	EXP 	Sound sound_1 reached end of file
+400.0177 	EXP 	Sound sound_1 reached end of file
+400.5634 	EXP 	fourthW: autoDraw = False
+400.5634 	EXP 	fourthW: autoDraw = False
+400.5634 	EXP 	text_6: autoDraw = True
+401.1508 	DATA 	Keypress: n
+401.1634 	EXP 	text_6: autoDraw = False
+401.1634 	EXP 	text_8: autoDraw = True
+402.6474 	EXP 	New trial (rep=0, index=21): OrderedDict([('index', 5), ('path1', 'audio\\set_0\\sleet_en-IN-Standard-X.wav'), ('path2', 'audio\\set_6\\plea_en-IN-Standard-X.wav'), ('path3', 'audio\\set_6\\dee_en-IN-Standard-X.wav'), ('path4', 'audio\\set_10\\fly_en-IN-Standard-X.wav'), ('word1', 'sleet'), ('word2', 'plea'), ('word3', 'dee'), ('word4', 'fly'), ('delay', 600)])
+402.6631 	EXP 	text_8: autoDraw = False
+402.6631 	EXP 	text_8: autoDraw = False
+402.6631 	EXP 	text_3: autoDraw = True
+402.6631 	EXP 	text_4: autoDraw = True
+405.6625 	EXP 	text_3: autoDraw = False
+405.6625 	EXP 	text_4: autoDraw = False
+405.6625 	EXP 	text_3: autoDraw = False
+405.6625 	EXP 	text_4: autoDraw = False
+405.6625 	EXP 	firstW: height = 0.05000000000000001
+405.6625 	EXP 	firstW: height = 0.05000000000000001
+405.6625 	EXP 	firstW: height = 0.05000000000000001
+405.6625 	EXP 	firstW: text = 'sleet'
+405.6625 	EXP 	firstW: autoDraw = True
+407.6629 	EXP 	firstW: autoDraw = False
+407.6629 	EXP 	polygon: autoDraw = True
+408.1621 	EXP 	polygon: autoDraw = False
+408.1621 	EXP 	firstW: autoDraw = False
+408.1621 	EXP 	polygon: autoDraw = False
+408.1621 	EXP 	secondW: height = 0.05000000000000001
+408.1621 	EXP 	secondW: height = 0.05000000000000001
+408.1621 	EXP 	secondW: height = 0.05000000000000001
+408.1621 	EXP 	secondW: text = 'plea'
+408.1621 	EXP 	secondW: autoDraw = True
+410.1623 	EXP 	secondW: autoDraw = False
+410.1623 	EXP 	polygon_2: autoDraw = True
+410.6616 	EXP 	polygon_2: autoDraw = False
+410.6616 	EXP 	secondW: autoDraw = False
+410.6616 	EXP 	polygon_2: autoDraw = False
+410.6616 	EXP 	thirdW: height = 0.05000000000000001
+410.6616 	EXP 	thirdW: height = 0.05000000000000001
+410.6616 	EXP 	thirdW: height = 0.05000000000000001
+410.6616 	EXP 	thirdW: text = 'dee'
+410.6616 	EXP 	thirdW: autoDraw = True
+412.6619 	EXP 	thirdW: autoDraw = False
+412.6619 	EXP 	polygon_3: autoDraw = True
+413.1810 	EXP 	polygon_3: autoDraw = False
+413.1810 	EXP 	thirdW: autoDraw = False
+413.1810 	EXP 	polygon_3: autoDraw = False
+413.1810 	EXP 	fourthW: height = 0.05000000000000001
+413.1810 	EXP 	fourthW: height = 0.05000000000000001
+413.1810 	EXP 	fourthW: height = 0.05000000000000001
+413.1810 	EXP 	fourthW: text = 'fly'
+413.1810 	EXP 	fourthW: autoDraw = True
+413.7617 	EXP 	Sound sound_1 started
+414.4010 	EXP 	Sound sound_1 reached end of file
+414.4011 	EXP 	Sound sound_1 reached end of file
+415.1939 	EXP 	fourthW: autoDraw = False
+415.1939 	EXP 	fourthW: autoDraw = False
+415.1939 	EXP 	text_6: autoDraw = True
+419.7975 	DATA 	Keypress: y
+419.8097 	EXP 	text_6: autoDraw = False
+419.8097 	EXP 	text_8: autoDraw = True
+421.2947 	EXP 	New trial (rep=0, index=22): OrderedDict([('index', 0), ('path1', 'audio\\set_6\\bee_en-IN-Standard-C.wav'), ('path2', 'audio\\set_6\\dee_en-IN-Standard-C.wav'), ('path3', 'audio\\set_6\\tree_en-IN-Standard-C.wav'), ('path4', 'audio\\set_6\\plea_en-IN-Standard-C.wav'), ('word1', 'bee'), ('word2', 'dee'), ('word3', 'tree'), ('word4', 'plea'), ('delay', 0)])
+421.3095 	EXP 	text_8: autoDraw = False
+421.3095 	EXP 	text_8: autoDraw = False
+421.3095 	EXP 	text_3: autoDraw = True
+421.3095 	EXP 	text_4: autoDraw = True
+424.3088 	EXP 	text_3: autoDraw = False
+424.3088 	EXP 	text_4: autoDraw = False
+424.3088 	EXP 	text_3: autoDraw = False
+424.3088 	EXP 	text_4: autoDraw = False
+424.3088 	EXP 	firstW: height = 0.05000000000000001
+424.3088 	EXP 	firstW: height = 0.05000000000000001
+424.3088 	EXP 	firstW: height = 0.05000000000000001
+424.3088 	EXP 	firstW: text = 'bee'
+424.3088 	EXP 	firstW: autoDraw = True
+426.3087 	EXP 	firstW: autoDraw = False
+426.3087 	EXP 	polygon: autoDraw = True
+426.8084 	EXP 	polygon: autoDraw = False
+426.8084 	EXP 	firstW: autoDraw = False
+426.8084 	EXP 	polygon: autoDraw = False
+426.8084 	EXP 	secondW: height = 0.05000000000000001
+426.8084 	EXP 	secondW: height = 0.05000000000000001
+426.8084 	EXP 	secondW: height = 0.05000000000000001
+426.8084 	EXP 	secondW: text = 'dee'
+426.8084 	EXP 	secondW: autoDraw = True
+428.8089 	EXP 	secondW: autoDraw = False
+428.8089 	EXP 	polygon_2: autoDraw = True
+429.3081 	EXP 	polygon_2: autoDraw = False
+429.3081 	EXP 	secondW: autoDraw = False
+429.3081 	EXP 	polygon_2: autoDraw = False
+429.3081 	EXP 	thirdW: height = 0.05000000000000001
+429.3081 	EXP 	thirdW: height = 0.05000000000000001
+429.3081 	EXP 	thirdW: height = 0.05000000000000001
+429.3081 	EXP 	thirdW: text = 'tree'
+429.3081 	EXP 	thirdW: autoDraw = True
+431.3075 	EXP 	thirdW: autoDraw = False
+431.3075 	EXP 	polygon_3: autoDraw = True
+431.8136 	EXP 	Sound sound_1 started
+431.8181 	EXP 	polygon_3: autoDraw = False
+431.8181 	EXP 	thirdW: autoDraw = False
+431.8181 	EXP 	polygon_3: autoDraw = False
+431.8181 	EXP 	fourthW: height = 0.05000000000000001
+431.8181 	EXP 	fourthW: height = 0.05000000000000001
+431.8181 	EXP 	fourthW: height = 0.05000000000000001
+431.8181 	EXP 	fourthW: text = 'plea'
+431.8181 	EXP 	fourthW: autoDraw = True
+432.4587 	EXP 	Sound sound_1 reached end of file
+432.4587 	EXP 	Sound sound_1 reached end of file
+433.8238 	EXP 	fourthW: autoDraw = False
+433.8238 	EXP 	fourthW: autoDraw = False
+433.8238 	EXP 	text_6: autoDraw = True
+434.4605 	DATA 	Keypress: y
+434.4736 	EXP 	text_6: autoDraw = False
+434.4736 	EXP 	text_8: autoDraw = True
+435.9576 	EXP 	New trial (rep=0, index=23): OrderedDict([('index', 1), ('path1', 'audio\\set_3\\spain_en-IN-Standard-C.wav'), ('path2', 'audio\\set_3\\stain_en-IN-Standard-C.wav'), ('path3', 'audio\\set_3\\lane_en-IN-Standard-C.wav'), ('path4', 'audio\\set_3\\pain_en-IN-Standard-C.wav'), ('word1', 'spain'), ('word2', 'stain'), ('word3', 'lane'), ('word4', 'pain'), ('delay', 200)])
+435.9733 	EXP 	text_8: autoDraw = False
+435.9733 	EXP 	text_8: autoDraw = False
+435.9733 	EXP 	text_3: autoDraw = True
+435.9733 	EXP 	text_4: autoDraw = True
+438.9725 	EXP 	text_3: autoDraw = False
+438.9725 	EXP 	text_4: autoDraw = False
+438.9725 	EXP 	text_3: autoDraw = False
+438.9725 	EXP 	text_4: autoDraw = False
+438.9725 	EXP 	firstW: height = 0.05000000000000001
+438.9725 	EXP 	firstW: height = 0.05000000000000001
+438.9725 	EXP 	firstW: height = 0.05000000000000001
+438.9725 	EXP 	firstW: text = 'spain'
+438.9725 	EXP 	firstW: autoDraw = True
+440.9723 	EXP 	firstW: autoDraw = False
+440.9723 	EXP 	polygon: autoDraw = True
+441.4721 	EXP 	polygon: autoDraw = False
+441.4721 	EXP 	firstW: autoDraw = False
+441.4721 	EXP 	polygon: autoDraw = False
+441.4721 	EXP 	secondW: height = 0.05000000000000001
+441.4721 	EXP 	secondW: height = 0.05000000000000001
+441.4721 	EXP 	secondW: height = 0.05000000000000001
+441.4721 	EXP 	secondW: text = 'stain'
+441.4721 	EXP 	secondW: autoDraw = True
+443.4724 	EXP 	secondW: autoDraw = False
+443.4724 	EXP 	polygon_2: autoDraw = True
+443.9717 	EXP 	polygon_2: autoDraw = False
+443.9717 	EXP 	secondW: autoDraw = False
+443.9717 	EXP 	polygon_2: autoDraw = False
+443.9717 	EXP 	thirdW: height = 0.05000000000000001
+443.9717 	EXP 	thirdW: height = 0.05000000000000001
+443.9717 	EXP 	thirdW: height = 0.05000000000000001
+443.9717 	EXP 	thirdW: text = 'lane'
+443.9717 	EXP 	thirdW: autoDraw = True
+445.9721 	EXP 	thirdW: autoDraw = False
+445.9721 	EXP 	polygon_3: autoDraw = True
+446.4748 	EXP 	polygon_3: autoDraw = False
+446.4748 	EXP 	thirdW: autoDraw = False
+446.4748 	EXP 	polygon_3: autoDraw = False
+446.4748 	EXP 	fourthW: height = 0.05000000000000001
+446.4748 	EXP 	fourthW: height = 0.05000000000000001
+446.4748 	EXP 	fourthW: height = 0.05000000000000001
+446.4748 	EXP 	fourthW: text = 'pain'
+446.4748 	EXP 	fourthW: autoDraw = True
+446.6715 	EXP 	Sound sound_1 started
+447.3596 	EXP 	Sound sound_1 reached end of file
+447.3597 	EXP 	Sound sound_1 reached end of file
+448.4874 	EXP 	fourthW: autoDraw = False
+448.4874 	EXP 	fourthW: autoDraw = False
+448.4874 	EXP 	text_6: autoDraw = True
+451.1572 	DATA 	Keypress: n
+451.1703 	EXP 	text_6: autoDraw = False
+451.1703 	EXP 	text_8: autoDraw = True
+452.6700 	EXP 	text_8: autoDraw = False
+452.6700 	EXP 	text_8: autoDraw = False
+452.6700 	EXP 	text_5: autoDraw = True
+456.6692 	EXP 	text_5: autoDraw = False
+456.6692 	EXP 	text_5: autoDraw = False
+456.6694 	EXP 	pitch_toj: status = STOPPED
+456.7951 	EXP 	window1: mouseVisible = True
